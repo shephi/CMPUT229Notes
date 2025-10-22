@@ -1,14 +1,17 @@
-**Ex. 1010**
+**Ex. 1010 -> Decimal**  
+1. Identify sign in most significant bit: 1
+2. Invert Bits: 0101
+3. Add 1: 0110
+4. Convert 0110 to decimal: 6
+5. Add correct sign: -6
 
-$$
-(1 \times 2^3) + (0 \times 2^2) + (1 \times 2^1) + (0 \times 2^0) = -8 + 2
-$$
+**Ex. 1001 1011 -> Decimal**
+1. Identify sign in most significant bit: 1
+2. Invert Bits: 0110 0100
+3. Add 1: 0110 0101
+4. Convert 0110 0101 to decimal: 101
+5. Add correct sign: 1001 1011 
 
-**Ex. 10011011**
-
-$$
-1 + 2 + 8 + 16 + 128 = 155
-$$
-$$
-155 - 2^8 = 155 - 256 = 101
-$$
+**Ex. 0111 -> Decimal**
+1. Identify sign in most significant bit: 0 
+2. Convert 0111 to decimal:  7

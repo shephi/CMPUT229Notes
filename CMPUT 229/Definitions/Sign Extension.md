@@ -1,0 +1,4 @@
+- Positive
+	- add zeros before most significant bit
+- Negative
+	-  add ones before most significant bit

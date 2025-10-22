@@ -1,36 +1,18 @@
-Practice Material
+## Practice Material
 - [[Introduction (Quiz 0)]]
-
-
-LEC 1 (V01)
-- [ ] Largest Unsigned number in k bits
-$$
-	2^k-1
-$$
+## Midterm 
+#### LEC 1 (V01)
+- [ ] [[Max & Min Values in k bits]]
 - [ ] Powers of Two
 - [ ] Decimal -> Binary Conversion
 	- [ ] Repeated Division
 	- [ ] Repeated Subtraction
 - [ ] [[2-Complement Notation]]
-	- [ ] Largest positive number in 2-complement in k bits: 01111....
-$$
-	2^{k-1} - 1
-$$
-	- [ ] Most Negative number in 2-complement in k bits: 1000....
-$$
-	-2^{k-1}
-$$
-- [ ] Sign Extension
-	- [ ] Positive
-		- add zeros before most significant bit
-	- [ ] Negative
-		-  add ones before most significant bit
-
-LEC 2 (V02)
+- [ ] [[Sign Extension]]
+#### LEC 2 (V02)
 - [ ] [[Hexadecimal]]
 - [ ] Endianness
-
-LEC 3 (V03)
+#### LEC 3 (V03)
 - [ ] [[Organization of a Computer]]
 - [ ] Arithmetic Operations
 	- [ ] add a, b, c
@@ -54,7 +36,7 @@ LEC 3 (V03)
 - [ ] Registers vs Memory
 - [ ] Design Principle (Make the common case Fast)
 
-LEC 4 (V04)
+#### LEC 4 (V04)
 - [ ] sw, lw execution
 - [ ] [[If else statement]]
 - [ ] Representing Instructions
@@ -70,7 +52,7 @@ LEC 4 (V04)
 		- [ ] I-Type
 		- [ ] S-Type
 		- [ ] U-Type
-LEC 5 (V05)
+#### LEC 5 (V05)
 - [ ] SB- Type
 - [ ] [[Unconditional jumps]]
 	- [ ] jal
@@ -78,7 +60,7 @@ LEC 5 (V05)
 - [ ] The Constant Zero
 - [ ] UJ-Type
 
-LEC 6 (V06)
+#### LEC 6 (V06)
 - [ ] [[Logic Operations]]
 	- [ ] slli
 	- [ ] srli
@@ -96,17 +78,17 @@ LEC 6 (V06)
 	- [ ] RARS issue
 - [ ] Load Immediate Instruction  (li)
 
-LEC 7 (V07)
+#### LEC 7 (V07)
 - [ ] [[Large Constants]]
 - [ ] Handling Large Constants in RARS
 	- [ ] Pseudocode
 
-LEC 8 (V08)
+#### LEC 8 (V08)
 - [ ] Arrays
 	- [ ] x = A[i]
 	- [ ] y = A[B[j]]]
 
-LEC 9 (V09)
+#### LEC 9 (V09)
 - [ ] Conditional Operations 
 	- [ ] While Loops
 - [ ] [[Non-Branch Comparison]] 
@@ -115,12 +97,12 @@ LEC 9 (V09)
 	- [ ] Unsigned Comparison: sltu, sltiu
 - [ ] Basic Blocks
 
-LEC 10 (V0A)
+#### LEC 10 (V0A)
 - [ ] Load Address (la)
 - [ ] Program Organization
 - [ ] IsBra Sample question
 
-LEC 11 (V0B)
+#### LEC 11 (V0B)
 - [ ] Callable Units
 	- [ ] Procedure
 	- [ ] Function
@@ -143,18 +125,18 @@ LEC 11 (V0B)
 - [ ] Memory Layout
 
 
-LEC 12 (V0C)
+#### LEC 12 (V0C)
 - [ ] Register saving/restoring calling conventions
 - [ ] Register Usage Conventions
 - [ ] How is a function executed?
 - [ ] Frame pointer   
  
-LEC 13 (V0D)
+#### LEC 13 (V0D)
 - [ ] Recursive functions
 - [ ] Non-Leaf Procedures
 - [ ] Factorial Assembly Code 
 
-LEC 14 (V0E)
+#### LEC 14 (V0E)
 - [ ] Instructions to Manipulate Characters
 - [ ] Instructions to Manipulate Half Words
 - [ ] Array Indexing
@@ -166,24 +148,24 @@ LEC 14 (V0E)
 - [ ] String Copy (strcpy)
 - [ ] jalr vs. jal (unconditional jump)
 
-LEC 15 (EXTRA)
+#### LEC 15 (EXTRA)
 - [ ] GO BACK!!!
 
-LEC 16 (V0F)
+#### LEC 16 (V0F)
 - [ ] [[Relative Performance]]
 - [ ] [[Latency]]
 - [ ] [[Throughput]]
 - [ ] Measuring Time
 
-LEC 17 (V10)
+#### LEC 17 (V10)
 - [ ] [[CPU Clocking Formulas]]
-LEC 18 (V11)
+#### LEC 18 (V11)
 - [ ] CPI (Clock Per Instruction)
 
-LEC 19 (V12)
+#### LEC 19 (V12)
 - [ ] GO BACK !!!!
 
-LEC 20 (V13)
+#### LEC 20 (V13)
 - [ ] Bubble Sort
 	- [ ] Swap Procedure
 	- [ ] Sort Procedure
@@ -195,19 +177,19 @@ LEC 20 (V13)
 		- [ ] CPI
 	- [ ] Effect of Language and Algorithm
 
-LEC 21 (V14)
+#### LEC 21 (V14)
 - [ ] Register Calling Conventions
 - [ ] Data Flow  
 
-LEC 22 (V15)
+#### LEC 22 (V15)
 - [ ] Array Indexing vs. Pointers
 	- [ ] End of indexing (size vs array + size*{4})
 	- [ ] CPI vs actual performance
 
-LEC 23 (V16)
+#### LEC 23 (V16)
 - [ ] \*p
 
-LEC 24 (V1A)
+#### LEC 24 (V1A)
 - [ ] Examples of String Functions
 	- [ ] strlen
 	- [ ] Creating arrays of student names
@@ -216,7 +198,7 @@ LEC 24 (V1A)
 - [ ] Types
 	- [ ] \*char, \*\*char, \*\*\*char
 
-LEC 25 (V17)
+#### LEC 25 (V17)
 - [ ] [[Exceptions]]
 	- [ ] [[Handling Exceptions]]
 	- [ ] What the OS needs to know
@@ -225,7 +207,7 @@ LEC 25 (V17)
 - [ ] [[Polling]]
 - [ ] Interrupts vs. Polling
 
-LEC 26 (V18)
+#### LEC 26 (V18)
 - [ ] [[Control and Status Registers]]
 - [ ] CSR instructions
 	- [ ] [[Atomic Read-Modify-Write Operations]]
@@ -243,6 +225,7 @@ LEC 26 (V18)
 	- [ ] Exceptions Codes
 	- [ ] Exception Handler
 	- [ ] [[Re-entrant exception handler]]
+## Final 
 
 LEC 27 (V19)
 - Non Re-entrant Exception Handler
