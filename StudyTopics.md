@@ -16,7 +16,7 @@
 - [ ] [[Hexadecimal to Decimal]](Definitions/V02/Hexadecimal%20to%20Decimal.md)
 - [ ] Endianness
 
-#### LEC 3: [[V03-ComputerOrganizationMemoryAddressing.pdf]](PDF%Notes/V03-ComputerOrganizationMemoryAddressing.pdf)
+#### LEC 3: [[V03-ComputerOrganizationMemoryAddressing.pdf]](PDF%20Notes/V03-ComputerOrganizationMemoryAddressing.pdf)
 - [ ] [[Organization of a Computer]](Definitions/V03/Organization%20of%20a%20Computer.md)
 - [ ] [[Arithmetic Operations]](Definitions/V03/Arithmetic%20Operations.md)
 - [ ]  C Code -> Assembly (Basic arithmetic operations)
