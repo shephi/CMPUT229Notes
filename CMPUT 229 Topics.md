@@ -36,6 +36,9 @@
 	- [ ] Instructions <-> Hexadecimal Representation
 - [ ] [[Unconditional Jumps]]
 - [ ] The Constant Zero
+- [ ] *Practice Questions*
+	- [ ] [[F10-quiz2.pdf]] -> [[F10-quiz2-sol.pdf]]
+	- [ ] [[f13-quiz1-a2-b.pdf]] -> [[f13-quiz1-a2-b-sol.pdf]]
 
 #### LEC 6 [[V06-LogicInstructions.pdf]]
 - [ ] [[Logic Operations]]
