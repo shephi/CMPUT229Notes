@@ -12,7 +12,7 @@
 - [ ] [[2-Complement Notation]](Definitions/V01/2-Complement%20Notation.md)
 - [ ] [[Sign Extension]](Definitions/V01/Sign%20Extension.md)
 
-#### LEC 2: [[V02-DataInMemory.pdf]](PDF%Notes/V02-DataInMemory.pdf)
+#### LEC 2: [[V02-DataInMemory.pdf]](PDF%20Notes/V02-DataInMemory.pdf)
 - [ ] [[Hexadecimal to Decimal]](Definitions/V02/Hexadecimal%20to%20Decimal.md)
 - [ ] Endianness
 
@@ -31,10 +31,10 @@
 - [ ] [[Immediate Operands]](Definitions/V03/Immediate%20Operands.md)
 	- [ ] [[Make the common case fast]](Definitions/V03/Make%20the%20common%20case%20fast.md)
 
-#### LEC 4: [[V04-MemoryRegisterDataTransfer.pdf]](PDF%Notes/V04-MemoryRegisterDataTransfer.pdf)
+#### LEC 4: [[V04-MemoryRegisterDataTransfer.pdf]](PDF%20Notes/V04-MemoryRegisterDataTransfer.pdf)
 - [ ] sw, lw execution in memory
 
-#### LEC 5: [[V05-InstructionRepresentation.pdf]](PDF%Notes/V05-InstructionRepresentation.pdf)
+#### LEC 5: [[V05-InstructionRepresentation.pdf]](PDF%20Notes/V05-InstructionRepresentation.pdf)
 - [ ] [[If else statement]](Definitions/V05/If%20else%20statement.md)
 - [ ] Representing Instructions
 	- [ ] [[Parts of an instruction]](Definitions/V05/Parts%20of%20an%20instruction.md)
@@ -43,36 +43,36 @@
 - [ ] [[Unconditional Jumps]](Definitions/V05/Unconditional%20Jumps.md)
 - [ ] The Constant Zero
 
-#### LEC 6: [[V06-LogicInstructions.pdf]](PDF%Notes/V06-LogicInstructions.pdf)
+#### LEC 6: [[V06-LogicInstructions.pdf]](PDF%20Notes/V06-LogicInstructions.pdf)
 - [ ] [[Logic Operations]](Definitions/V06/Logic%20Operations.md)
 - [ ] [[Binary to Decimal]](Definitions/V06/Binary%20to%20Decimal.md)
 - [ ] [[Bitwise Logical Operations]](Definitions/V06/Bitwise%20Logical%20Operations.md)
 	- [ ] RARS issue
 - [ ] Load Immediate Instruction (li)
 
-#### LEC 7: [[V07-LargeConstants.pdf]](PDF%Notes/V07-LargeConstants.pdf)
+#### LEC 7: [[V07-LargeConstants.pdf]](PDF%20Notes/V07-LargeConstants.pdf)
 - [ ] [[Large Constants]](Definitions/V07/Large%20Constants.md)
 - [ ] Handling Large Constants in RARS
 	- [ ] Pseudocode
 
-#### LEC 8: [[V08-ArraysInMemory.pdf]](PDF%Notes/V08/V08-ArraysInMemory.pdf)
+#### LEC 8: [[V08-ArraysInMemory.pdf]](PDF%20Notes/V08-ArraysInMemory.pdf)
 - [ ] Arrays
 	- [ ] `x = A[i]`
 	- [ ] `y = A[B[j]]]`
 
-#### LEC 9: [[V09-ConditionalInstructionsAndLoops.pdf]](PDF Notes/V09/V09-ConditionalInstructionsAndLoops.pdf)
+#### LEC 9: [[V09-ConditionalInstructionsAndLoops.pdf]](PDF%20Notes/V09-ConditionalInstructionsAndLoops.pdf)
 - [ ] Conditional Operations 
 	- [ ] While Loops
 - [ ] [[Non-Branch Comparison]](Definitions/V09/Non-Branch%20Comparison.md)
 - [ ] [[Signed vs Unsigned Comparison]](Definitions/V09/Signed%20vs%20Unsigned%20Comparison.md)
 - [ ] Basic Blocks
 
-#### LEC 10: [[V0A-IsBraExample.pdf]](PDF Notes/V0A/V0A-IsBraExample.pdf)
+#### LEC 10: [[V0A-IsBraExample.pdf]](PDF%20Notes/V0A-IsBraExample.pdf)
 - [ ] Load Address (la)
 - [ ] Program Organization
 - [ ] IsBra Sample question
 
-#### LEC 11: [[V0B-ProcedureCallsAndStack.pdf]](PDF Notes/V0B/V0B-ProcedureCallsAndStack.pdf)
+#### LEC 11: [[V0B-ProcedureCallsAndStack.pdf]](PDF%20Notes/V0B-ProcedureCallsAndStack.pdf)
 - [ ] [[Callable Units]](Definitions/V0B/Callable%20Units.md)
 - [ ] Procedure Calls
 	- [ ] Finding Return Address
@@ -83,18 +83,18 @@
 - [ ] Stack Pointer
 - [ ] Memory Layout
 
-#### LEC 12: [[V0C-RegisterCallingConvention.pdf]](PDF Notes/V0C/V0C-RegisterCallingConvention.pdf)
+#### LEC 12: [[V0C-RegisterCallingConvention.pdf]](PDF%20Notes/V0C-RegisterCallingConvention.pdf)
 - [ ] Register saving/restoring calling conventions
 - [ ] [[Register Usage Conventions]](Definitions/V0C/Register%20Usage%20Conventions.md)
 - [ ] [[Function Execution]](Definitions/V0C/Function%20Execution.md)
 - [ ] Frame pointer   
 
-#### LEC 13: [[V0D-RecursiveFunctions.pdf]](PDF Notes/V0D/V0D-RecursiveFunctions.pdf)
+#### LEC 13: [[V0D-RecursiveFunctions.pdf]](PDF%20Notes/V0D-RecursiveFunctions.pdf)
 - [ ] Recursive functions
 - [ ] Non-Leaf Procedures
 - [ ] Factorial Assembly Code 
 
-#### LEC 14: [[V0E-StringsOfCharacters.pdf]](PDF Notes/V0E/V0E-StringsOfCharacters.pdf)
+#### LEC 14: [[V0E-StringsOfCharacters.pdf]](PDF%20Notes//V0E-StringsOfCharacters.pdf)
 - [ ] Instructions to Manipulate Characters
 - [ ] Instructions to Manipulate Half Words
 - [ ] Array Indexing
@@ -109,22 +109,22 @@
 #### LEC 15 (EXTRA)
 - [ ] GO BACK!!!
 
-#### LEC 16: [[V0F-RelativePerformance.pdf]](PDF Notes/V0F/V0F-RelativePerformance.pdf)
+#### LEC 16: [[V0F-RelativePerformance.pdf]](PDF%20Notes/V0F-RelativePerformance.pdf)
 - [ ] [[Relative Performance]](Definitions/V0F/Relative%20Performance.md)
 - [ ] [[Latency]](Definitions/V0F/Latency.md)
 - [ ] [[Throughput]](Definitions/V0F/Throughput.md)
 - [ ] Measuring Time
 
-#### LEC 17: [[V10-ClockAndFrequency.pdf]](PDF Notes/V10/V10-ClockAndFrequency.pdf)
+#### LEC 17: [[V10-ClockAndFrequency.pdf]](PDF%20Notes/V10-ClockAndFrequency.pdf)
 - [ ] [[CPU Clocking Formulas]](Definitions/V10/CPU%20Clocking%20Formulas.md)
 
-#### LEC 18: [[V11-CPI.pdf]](PDF Notes/V11/V11-CPI.pdf)
+#### LEC 18: [[V11-CPI.pdf]](PDF%20Notes/V11-CPI.pdf)
 - [ ] CPI (Clock Per Instruction)
 
-#### LEC 19: [[V12-PowerSPECAmdahl.pdf]](PDF Notes/V12/V12-PowerSPECAmdahl.pdf)
+#### LEC 19: [[V12-PowerSPECAmdahl.pdf]](PDF%20Notes/V12-PowerSPECAmdahl.pdf)
 - [ ] GO BACK !!!!
 
-#### LEC 20: [[V13-BubbleSort.pdf]](PDF Notes/V13/V13-BubbleSort.pdf)
+#### LEC 20: [[V13-BubbleSort.pdf]](PDF%20Notes/V13-BubbleSort.pdf)
 - [ ] Bubble Sort
 	- [ ] Swap Procedure
 	- [ ] Sort Procedure
@@ -136,19 +136,19 @@
 		- [ ] CPI
 	- [ ] Effect of Language and Algorithm
 
-#### LEC 21: [[V14-FunctionCallInALoop.pdf]](PDF Notes/V14/V14-FunctionCallInALoop.pdf)
+#### LEC 21: [[V14-FunctionCallInALoop.pdf]](PDF%20Notes/V14-FunctionCallInALoop.pdf)
 - [ ] Register Calling Conventions
 - [ ] Data Flow  
 
-#### LEC 22: [[V15-IndexingVsPointers.pdf]](PDF Notes/V15/V15-IndexingVsPointers.pdf)
+#### LEC 22: [[V15-IndexingVsPointers.pdf]](PDF%20Notes/V15-IndexingVsPointers.pdf)
 - [ ] Array Indexing vs. Pointers
 	- [ ] End of indexing (size vs array + size*{4})
 	- [ ] CPI vs actual performance
 
-#### LEC 23: [[V16-StarP.pdf]](PDF Notes/V16/V16-StarP.pdf)
+#### LEC 23: [[V16-StarP.pdf]](PDF%20Notes/V16-StarP.pdf)
 - [ ] \*p
 
-#### LEC 24: [[V1A-StringFunctions.pdf]](PDF Notes/V1A/V1A-StringFunctions.pdf)
+#### LEC 24: [[V1A-StringFunctions.pdf]](PDF%20Notes/V1A-StringFunctions.pdf)
 - [ ] Examples of String Functions
 	- [ ] strlen
 	- [ ] Creating arrays of student names
@@ -157,7 +157,7 @@
 - [ ] Types
 	- [ ] \*char, \*\*char, \*\*\*char
 
-#### LEC 25: [[V17-ExceptionsInterruptsPolling.pdf]](PDF Notes/V17/V17-ExceptionsInterruptsPolling.pdf)
+#### LEC 25: [[V17-ExceptionsInterruptsPolling.pdf]](PDF%20Notes/V17-ExceptionsInterruptsPolling.pdf)
 - [ ] [[Exceptions]](Definitions/V17/Exceptions.md)
 	- [ ] [[Handling Exceptions]](Definitions/V17/Handling%20Exceptions.md)
 	- [ ] What the OS needs to know
@@ -166,7 +166,7 @@
 - [ ] [[Polling]](Definitions/V17/Polling.md)
 - [ ] Interrupts vs. Polling
 
-#### LEC 26: [[V18-ExceptionsRISC-V.pdf]](PDF Notes/V18/V18-ExceptionsRISC-V.pdf)
+#### LEC 26: [[V18-ExceptionsRISC-V.pdf]](PDF%20Notes/V18-ExceptionsRISC-V.pdf)
 - [ ] [[Control and Status Registers]](Definitions/V18/Control%20and%20Status%20Registers.md)
 - [ ] CSR instructions
 	- [ ] [[Atomic Read-Modify-Write Operations]](Definitions/V18/Atomic%20Read-Modify-Write%20Operations.md)
@@ -186,10 +186,10 @@
 
 ## Final 
 
-#### LEC 27: [[V19-ExceptionHandlerExample.pdf]](Definitions/V19/V19-NonReentrantExceptionHandler.pdf)
+#### LEC 27: [[V19-ExceptionHandlerExample.pdf]](PDF%20Notes/V19-NonReentrantExceptionHandler.pdf)
 - Non Re-entrant Exception Handler
 
-#### LEC 28: [[V1B-ValueVsReferenceParameterPassing.pdf]](Definitions/V1B/V1B-ParameterPassing.pdf)
+#### LEC 28: [[V1B-ValueVsReferenceParameterPassing.pdf]](PDF%20Notes/V1B-ParameterPassing.pdf)
 - [ ] Parameter Passing by Value
 - [ ] Parameter Passing by Reference
 	- [ ] Need to make a copy of the parameter
