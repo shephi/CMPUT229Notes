@@ -1,6 +1,6 @@
-- [ ] slt
-- [ ] slti
-- [ ] blt
-- [ ] bge
-- [ ] beqz
-- [ ] bnez
+- slt
+- slti
+- blt
+- bge
+- beqz
+- bnez

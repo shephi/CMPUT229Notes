@@ -7,11 +7,11 @@ else
 
 
 > [!NOTE] Assumptions
-> f <-> s0
-g <-> s1
-h <-> s2
-i <-> s3
-j <-> s4
+> - f <-> s0
+> - g <-> s1
+> - h <-> s2
+> - i <-> s3
+> - j <-> s4
 
 
 ```
