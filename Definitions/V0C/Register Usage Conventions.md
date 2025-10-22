@@ -1,1 +1,1 @@
-![[CMPUT229/Definitions/V0C/image.png]](Definitions/V0C/image.png)
+![[CMPUT229/Definitions/V0C/image.png]](image.png)
