@@ -11,14 +11,14 @@ $$
 \text{Clock Cycle Time} = \frac{1}{\text{Frequency}}
 $$
 $$
-\text{CPU Time} = \frac{\# \text{ of CPU Clock Cycles}}{\text{Frequency}}
+\text{CPU Time} = \frac{\text{num of CPU Clock Cycles}}{\text{Frequency}}
 $$
 $$
-\text{CPU Time} = \text{ \# of CPU Clock Cycles} \times \text{Clock Cycle Time}
+\text{CPU Time} = \text{ num of CPU Clock Cycles} \times \text{Clock Cycle Time}
 $$
 
 $$
-\text{CPU Time} = \text{\# Instructions} \times \text{CPI} \times \text{Clock Cycle Time}
+\text{CPU Time} = \text{num of Instructions} \times \text{CPI} \times \text{Clock Cycle Time}
 $$
 
 ### Performance Summary
