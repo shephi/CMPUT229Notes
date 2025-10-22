@@ -1,0 +1,4 @@
+- add a, b, c
+- addi a, b, 20
+-  sub a, b, c
+- addi a, b, -20

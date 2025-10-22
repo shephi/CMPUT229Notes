@@ -14,11 +14,7 @@
 - [ ] Endianness
 #### LEC3: [[V03-ComputerOrganizationMemoryAddressing.pdf]]
 - [ ] [[Organization of a Computer]]
-- [ ] Arithmetic Operations
-	- [ ] add a, b, c
-	- [ ] addi a, b, 20
-	- [ ] sub a, b, c
-	- [ ] addi a, b, -20
+- [ ] [[Arithmetic Operations]]
 - [ ] C Code -> Assembly (Basic arithmetic operations)
 	- A[0] = h + A[2], h <-> s2, A <-> s1
 		- lw t0, 8(s1)
@@ -36,7 +32,7 @@
 - [ ] Registers vs Memory
 - [ ] Design Principle (Make the common case Fast)
 
-#### LEC 4 (V04)
+#### LEC 4 [[V04-MemoryRegisterDataTransfer.pdf]]
 - [ ] sw, lw execution
 - [ ] [[If else statement]]
 - [ ] Representing Instructions
@@ -52,7 +48,7 @@
 		- [ ] I-Type
 		- [ ] S-Type
 		- [ ] U-Type
-#### LEC 5 (V05)
+#### LEC 5 [[V05-InstructionRepresentation.pdf]]
 - [ ] SB- Type
 - [ ] [[Unconditional jumps]]
 	- [ ] jal
@@ -60,7 +56,7 @@
 - [ ] The Constant Zero
 - [ ] UJ-Type
 
-#### LEC 6 (V06)
+#### LEC 6 [[V06-LogicInstructions.pdf]]
 - [ ] [[Logic Operations]]
 	- [ ] slli
 	- [ ] srli
@@ -78,7 +74,7 @@
 	- [ ] RARS issue
 - [ ] Load Immediate Instruction  (li)
 
-#### LEC 7 (V07)
+#### LEC 7 [[V07-LargeConstants.pdf]]
 - [ ] [[Large Constants]]
 - [ ] Handling Large Constants in RARS
 	- [ ] Pseudocode
