@@ -36,9 +36,11 @@
 	- [ ] Instructions <-> Hexadecimal Representation
 - [ ] [[Unconditional Jumps]]
 - [ ] The Constant Zero
-- [ ] *Practice Questions*
-	- [ ] [[F10-quiz2.pdf]] -> [[F10-quiz2-sol.pdf]]
-	- [ ] [[f13-quiz1-a2-b.pdf]] -> [[f13-quiz1-a2-b-sol.pdf]]
+- [ ] *Practice Questions*:
+	- [ ] Branches, Addresses Displacements
+		- [ ] [[F10-quiz2.pdf]] -> [[F10-quiz2-sol.pdf]]
+	- [ ] Instruction Decoding
+		- [ ] [[W25-midterm-B1-Q5.pdf]] -> [[W25-midterm-B1-Q5-sol.pdf]]
 
 #### LEC 6 [[V06-LogicInstructions.pdf]]
 - [ ] [[Logic Operations]]
@@ -46,6 +48,11 @@
 - [ ] [[Bitwise Logical Operations]]
 	- [ ] RARS issue
 - [ ] Load Immediate Instruction  (li)
+- [ ] *Practice Questions*:
+	- [ ] Analysis of Instructions
+		- [ ]  [[f13-quiz1-a2-b.pdf]] -> [[f13-quiz1-a2-b-sol.pdf]]
+	- [ ] Scanning Instructions
+		- [ ] [[W25-midterm-B1-Q6.pdf]] -> [[W25]]
 
 #### LEC 7 [[V07-LargeConstants.pdf]]
 - [ ] [[Large Constants]]
