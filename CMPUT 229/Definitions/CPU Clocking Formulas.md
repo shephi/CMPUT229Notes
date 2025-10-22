@@ -1,3 +1,4 @@
+
 $$
 frequency = \frac{\text{cycles}}{\text{second}}
 $$
