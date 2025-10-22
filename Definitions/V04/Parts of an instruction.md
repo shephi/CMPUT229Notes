@@ -1,0 +1,6 @@
+- Opcode (op)
+- function code (funct7)
+- function code (funct3)
+- rd (register destination)
+- rs1 (first register source)
+- rs2 (second register source)

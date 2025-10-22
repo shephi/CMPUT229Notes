@@ -36,41 +36,18 @@
 - [ ] sw, lw execution
 - [ ] [[If else statement]]
 - [ ] Representing Instructions
-	- [ ] Parts of an instruction
-		- [ ] Opcode (op)
-		- [ ] function code (funct7)
-		- [ ] function code (funct3)
-		- [ ] rd (register destination)
-		- [ ] rs1 (first register source)
-		- [ ] rs2 (second register source)
-	- [ ] Types
-		- [ ] R-Type
-		- [ ] I-Type
-		- [ ] S-Type
-		- [ ] U-Type
+	- [ ] [[Parts of an instruction]]
+	- [ ] [[Types of Instructions]]
+	
 #### LEC 5 [[V05-InstructionRepresentation.pdf]]
-- [ ] SB- Type
+- [ ] [[Types of Instructions]]
 - [ ] [[Unconditional jumps]]
-	- [ ] jal
-	- [ ] jalr
 - [ ] The Constant Zero
-- [ ] UJ-Type
 
 #### LEC 6 [[V06-LogicInstructions.pdf]]
 - [ ] [[Logic Operations]]
-	- [ ] slli
-	- [ ] srli
-	- [ ] srai
-	- [ ] sll
-	- [ ] srl
-	- [ ] sra
 - [ ] [[Binary to Decimal]] 
-- [ ] Bitwise Logical Operations
-	- [ ] and 
-	- [ ] or
-	- [ ] xor
-	- [ ] xori
-- [ ] Bitwise with immediate operand
+- [ ] [[Bitwise Logical Operations]]
 	- [ ] RARS issue
 - [ ] Load Immediate Instruction  (li)
 
@@ -79,12 +56,12 @@
 - [ ] Handling Large Constants in RARS
 	- [ ] Pseudocode
 
-#### LEC 8 (V08)
+#### LEC 8 [[V08-ArraysInMemory.pdf]]
 - [ ] Arrays
 	- [ ] x = A[i]
 	- [ ] y = A[B[j]]]
 
-#### LEC 9 (V09)
+#### LEC 9 [[V09-ConditionalInstructionsAndLoops.pdf]]
 - [ ] Conditional Operations 
 	- [ ] While Loops
 - [ ] [[Non-Branch Comparison]] 
@@ -93,46 +70,36 @@
 	- [ ] Unsigned Comparison: sltu, sltiu
 - [ ] Basic Blocks
 
-#### LEC 10 (V0A)
+#### LEC 10 [[V0A-IsBraExample.pdf]]
 - [ ] Load Address (la)
 - [ ] Program Organization
 - [ ] IsBra Sample question
 
-#### LEC 11 (V0B)
-- [ ] Callable Units
-	- [ ] Procedure
-	- [ ] Function
-	- [ ] Rountine
-	- [ ] Subroutine
-	- [ ] Subprogram
-	- [ ] Method
+#### LEC 11 [[V0B-ProcedureCallsAndStack.pdf]]
+- [ ] [[Callable Units]]
 - [ ] Procedure Calls
 	- [ ] Finding Return Address
 		- [ ] Store Return address before calling
 	- [ ] Problem
 		- [ ] Single ra register
-- [ ] Call Stacks
-	- [ ] Value of fp
-	- [ ] Value of ra
-	- [ ] Registers that are modified by function
-	- [ ] Local Variables
-- [ ] Stack Pointer (sp) Register
+- [ ] [[Call Stacks]]
+- [ ] Stack Pointer
 - [ ] Saving Registers into the Stack
 - [ ] Memory Layout
 
 
-#### LEC 12 (V0C)
+#### LEC 12 [[V0C-RegisterCallingConvention.pdf]]
 - [ ] Register saving/restoring calling conventions
 - [ ] Register Usage Conventions
 - [ ] How is a function executed?
 - [ ] Frame pointer   
  
-#### LEC 13 (V0D)
+#### LEC 13 [[V0D-RecursiveFunctions.pdf]]
 - [ ] Recursive functions
 - [ ] Non-Leaf Procedures
 - [ ] Factorial Assembly Code 
 
-#### LEC 14 (V0E)
+#### LEC 14 [[V0E-StringsOfCharacters.pdf]]
 - [ ] Instructions to Manipulate Characters
 - [ ] Instructions to Manipulate Half Words
 - [ ] Array Indexing
@@ -147,21 +114,21 @@
 #### LEC 15 (EXTRA)
 - [ ] GO BACK!!!
 
-#### LEC 16 (V0F)
+#### LEC 16 [[V0F-RelativePerformance.pdf]]
 - [ ] [[Relative Performance]]
 - [ ] [[Latency]]
 - [ ] [[Throughput]]
 - [ ] Measuring Time
 
-#### LEC 17 (V10)
+#### LEC 17 [[V10-ClockAndFrequency.pdf]]
 - [ ] [[CPU Clocking Formulas]]
-#### LEC 18 (V11)
+#### LEC 18 [[V11-CPI.pdf]]
 - [ ] CPI (Clock Per Instruction)
 
-#### LEC 19 (V12)
+#### LEC 19 [[V12-PowerSPECAmdahl.pdf]]
 - [ ] GO BACK !!!!
 
-#### LEC 20 (V13)
+#### LEC 20 [[V13-BubbleSort.pdf]]
 - [ ] Bubble Sort
 	- [ ] Swap Procedure
 	- [ ] Sort Procedure
@@ -173,19 +140,19 @@
 		- [ ] CPI
 	- [ ] Effect of Language and Algorithm
 
-#### LEC 21 (V14)
+#### LEC 21 [[V14-FunctionCallInALoop.pdf]]
 - [ ] Register Calling Conventions
 - [ ] Data Flow  
 
-#### LEC 22 (V15)
+#### LEC 22 [[V15-IndexingVsPointers.pdf]]
 - [ ] Array Indexing vs. Pointers
 	- [ ] End of indexing (size vs array + size*{4})
 	- [ ] CPI vs actual performance
 
-#### LEC 23 (V16)
+#### LEC 23 [[V16-StarP.pdf]]
 - [ ] \*p
 
-#### LEC 24 (V1A)
+#### LEC 24 [[V1A-StringFunctions.pdf]]
 - [ ] Examples of String Functions
 	- [ ] strlen
 	- [ ] Creating arrays of student names
@@ -194,7 +161,7 @@
 - [ ] Types
 	- [ ] \*char, \*\*char, \*\*\*char
 
-#### LEC 25 (V17)
+#### LEC 25 [[V17-ExceptionsInterruptsPolling.pdf]]
 - [ ] [[Exceptions]]
 	- [ ] [[Handling Exceptions]]
 	- [ ] What the OS needs to know
@@ -203,7 +170,7 @@
 - [ ] [[Polling]]
 - [ ] Interrupts vs. Polling
 
-#### LEC 26 (V18)
+#### LEC 26 [[V18-ExceptionsRISC-V.pdf]]
 - [ ] [[Control and Status Registers]]
 - [ ] CSR instructions
 	- [ ] [[Atomic Read-Modify-Write Operations]]

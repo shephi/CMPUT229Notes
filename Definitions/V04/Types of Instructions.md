@@ -1,0 +1,6 @@
+- R-Type
+- I-Type
+- S-Type
+- U-Type
+- UJ-Type
+- SB- Type
