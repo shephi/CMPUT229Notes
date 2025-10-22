@@ -4,4 +4,3 @@
 - Atomic Read/Clear Bits Immediate: [[csrrci]]
 - Atomic Read/Set Bits: [[csrrs]]
 - Atomic Read/Set Bits Immediate: [[csrrsi]]
-- 
