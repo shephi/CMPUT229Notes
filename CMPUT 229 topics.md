@@ -1,7 +1,7 @@
 ## Practice Material
 - [[Introduction (Quiz 0)]]
 ## Midterm 
-#### LEC 1 (V01)
+#### LEC 1: [[V01-BinaryRepresentation.pdf]]
 - [ ] [[Max & Min Values in k bits]]
 - [ ] Powers of Two
 - [ ] Decimal -> Binary Conversion
@@ -9,10 +9,10 @@
 	- [ ] Repeated Subtraction
 - [ ] [[2-Complement Notation]]
 - [ ] [[Sign Extension]]
-#### LEC 2 (V02)
+#### LEC 2: [[V02-DataInMemory.pdf]]
 - [ ] [[Hexadecimal]]
 - [ ] Endianness
-#### LEC 3 (V03)
+#### LEC3: [[V03-ComputerOrganizationMemoryAddressing.pdf]]
 - [ ] [[Organization of a Computer]]
 - [ ] Arithmetic Operations
 	- [ ] add a, b, c
