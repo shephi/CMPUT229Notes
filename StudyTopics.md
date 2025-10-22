@@ -3,7 +3,7 @@
 
 ## Midterm 
 
-#### LEC 1: [[V01-BinaryRepresentation.pdf]](PDF Notes/V01/V01-BinaryRepresentation.pdf)
+#### LEC 1: [[V01-BinaryRepresentation.pdf]](PDF%Notes/V01/V01-BinaryRepresentation.pdf)
 - [ ] [[Max & Min Values in k bits]](Definitions/V01/Max%20&%20Min%20Values%20in%20k%20bits.md)
 - [ ] Powers of Two
 - [ ] Decimal -> Binary Conversion
@@ -12,11 +12,11 @@
 - [ ] [[2-Complement Notation]](Definitions/V01/2-Complement%20Notation.md)
 - [ ] [[Sign Extension]](Definitions/V01/Sign%20Extension.md)
 
-#### LEC 2: [[V02-DataInMemory.pdf]](PDF Notes/V02/V02-DataInMemory.pdf)
+#### LEC 2: [[V02-DataInMemory.pdf]](PDF%Notes/V02/V02-DataInMemory.pdf)
 - [ ] [[Hexadecimal to Decimal]](Definitions/V02/Hexadecimal%20to%20Decimal.md)
 - [ ] Endianness
 
-#### LEC 3: [[V03-ComputerOrganizationMemoryAddressing.pdf]](PDF Notes/V03/V03-ComputerOrganizationMemoryAddressing.pdf)
+#### LEC 3: [[V03-ComputerOrganizationMemoryAddressing.pdf]](PDF%Notes/V03/V03-ComputerOrganizationMemoryAddressing.pdf)
 - [ ] [[Organization of a Computer]](Definitions/V03/Organization%20of%20a%20Computer.md)
 - [ ] [[Arithmetic Operations]](Definitions/V03/Arithmetic%20Operations.md)
 - [ ]  C Code -> Assembly (Basic arithmetic operations)
@@ -31,7 +31,7 @@
 - [ ] [[Immediate Operands]](Definitions/V03/Immediate%20Operands.md)
 	- [ ] [[Make the common case fast]](Definitions/V03/Make%20the%20common%20case%20fast.md)
 
-#### LEC 4: [[V04-MemoryRegisterDataTransfer.pdf]](PDF Notes/V04/V04-MemoryRegisterDataTransfer.pdf)
+#### LEC 4: [[V04-MemoryRegisterDataTransfer.pdf]](PDF%Notes/V04/V04-MemoryRegisterDataTransfer.pdf)
 - [ ] sw, lw execution in memory
 
 #### LEC 5: [[V05-InstructionRepresentation.pdf]](PDF Notes/V05/V05-InstructionRepresentation.pdf)
