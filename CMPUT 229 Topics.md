@@ -37,11 +37,14 @@
 - [ ] [[Unconditional Jumps]]
 - [ ] The Constant Zero
 - [ ] *Practice Questions*:
-	- [ ] Branches, Addresses Displacements
+	- [ ] 12. Branches, Addresses Displacements
 		- [ ] [[F10-quiz2.pdf]] -> [[F10-quiz2-sol.pdf]]
-	- [ ] Instruction Decoding
+	- [ ] 14. Instruction Decoding
 		- [ ] [[W25-midterm-B1-Q5.pdf]] -> [[W25-midterm-B1-Q5-sol.pdf]]
-
+	- [ ] 17. Instruction Binary Representation
+		- [ ] [[W25-midterm-B1-Q4.pdf]] -> [[W25-midterm-B1-Q4-sol.pdf]]
+	- [ ] 18. Load Word Indirect
+		- [ ] [[f16-midterm-q2.pdf]] -> [[f16-midterm-q2-sol.pdf]]
 #### LEC 6 [[V06-LogicInstructions.pdf]]
 - [ ] [[Logic Operations]]
 - [ ] [[Binary to Decimal]] 
@@ -49,10 +52,10 @@
 	- [ ] RARS issue
 - [ ] Load Immediate Instruction  (li)
 - [ ] *Practice Questions*:
-	- [ ] Analysis of Instructions
+	- [ ] 13. Analysis of Instructions
 		- [ ]  [[f13-quiz1-a2-b.pdf]] -> [[f13-quiz1-a2-b-sol.pdf]]
-	- [ ] Scanning Instructions
-		- [ ] [[W25-midterm-B1-Q6.pdf]] -> [[W25]]
+	- [ ] 15. Scanning Instructions
+		- [ ] [[W25-midterm-B1-Q6.pdf]] -> [[W25-midterm-B1-Q6-sol.pdf]]
 
 #### LEC 7 [[V07-LargeConstants.pdf]]
 - [ ] [[Large Constants]]
@@ -91,6 +94,9 @@
 - [ ] Recursive functions
 - [ ] Non-Leaf Procedures
 - [ ] Factorial Assembly Code 
+- [ ] *Practice Questions*
+	- [ ] 16. Recursion, Branches
+		- [ ] [[W25-midterm-B1-Q3.pdf]] -> [[W25-midterm-B1-Q3-sol.pdf]]
 #### LEC 14 [[V0E-StringsOfCharacters.pdf]]
 - [ ] Instructions to Manipulate Characters
 - [ ] Instructions to Manipulate Half Words
