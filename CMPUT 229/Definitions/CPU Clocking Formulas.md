@@ -1,4 +1,5 @@
 
+### Basic Formulas ---
 $$
 frequency = \frac{\text{cycles}}{\text{second}}
 $$
@@ -7,7 +8,7 @@ $$
 
 $$
 
-### Main Formulas ----------
+### Main Formulas ---
 $$
 \text{Clock Cycle Time} = \frac{1}{\text{Frequency}}
 $$
@@ -22,7 +23,7 @@ $$
 \text{CPU Time} = \text{num of Instructions} \times \text{CPI} \times \text{Clock Cycle Time}
 $$
 
-### Performance Summary
+### Performance Summary ---
 $$
 \text{CPU Time} = \frac{\text{Instructions}}{\text{Program}} \times \frac{\text{Clock cycles}}{\text{Instruction}} \times \frac{\text{Seconds}}{\text{Clock Cycle}}
 $$
