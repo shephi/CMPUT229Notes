@@ -1,0 +1,8 @@
+- Processor jumps to code starting at base address of the trap handler stored in the utvec register (5)
+	- this is the first instruction of the exception handler
+- Exception Handler:
+	- Examines the cause of the exception
+	- Jumps to the OS handler of that exception
+- OS either:
+	- Terminates the process that caused the exception
+	- Takes care of the exception condition and restarts the process

@@ -1,0 +1,1 @@
+The Time it takes to complete a single task or operation from start to finish

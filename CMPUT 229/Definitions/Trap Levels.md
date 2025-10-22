@@ -1,0 +1,2 @@
+- [[Vertical Trap]]
+- [[Horizontal Trap]]

@@ -1,0 +1,1 @@
+The rate at which tasks are completed over a period of time

@@ -1,0 +1,30 @@
+- Assembly language
+	- symbolic representation of machine instructions
+- Machine language
+	- binary representation of machine instructions
+- Assembler
+	- Translates symbolic, human-readable instructions into the binary version the machine understands
+- Compiler
+	- A compiler is a program that translates code written in a high-level programming language into machine code or assembly language
+- Cache Memory
+	- A cache memory is smaller and faster than the main memory in a computer. The cache memory acts as a buffer between the processing speed of the processor and the speed of operation of the computers main memory.
+- Embedded applications 
+	- Embedded typically have stricter power and reliability requirements than general-purpose computers
+	- Embedded systems are often designed to be **more power-efficient** and **highly reliable** for specific tasks, sometimes operating under strict constraints like limited energy, real-time performance, or harsh environments.
+- Instruction set architecture 
+	- Abstraction from hardware to low-level software
+- Volatile memory
+	- Holds data and programs while the machine is running,  but should not be used for storage between runs
+	- Retains Data only if it is receiving power
+- Secondary memory
+	- Secondary memory (or auxiliary storage) is a non-volatile, long-term storage medium that is _not_ a part of the main memory, and is used to store the operating system, applications, and all user files permanently.
+- Application binary interface
+	- The Application Binary Interface (ABI) defines how a program interacts with the operating system and hardware at the binary level, including details like calling conventions, data representation, and register usage.
+- Datapath
+	- executes operations (like arithmetic or data movement).
+- Control Unit 
+	- The Control Unit of the processor controls the processor, memory, and I/O devices according to a program’s instructions
+- Operating System
+	- Program that manages the resources of a computer for the benefit of the programs that run on that computer
+- High-level programming language
+	- a portable language that is composed of words and algebraic notation that can be translated by a compiler into assembly language.
