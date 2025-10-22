@@ -1,0 +1,4 @@
+- Load Word (lw)
+	- lw t0, 8(s1)
+- Store Word (sw)
+	- s1 t0, 0(s1)

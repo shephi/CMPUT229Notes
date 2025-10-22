@@ -1,0 +1,2 @@
+- Signed Comparison: slt, slti
+- Unsigned Comparison: sltu, sltiu

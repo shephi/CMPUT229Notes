@@ -1,0 +1,2 @@
+- Small Constants are common
+- Immediate Operands avoids a load instruction

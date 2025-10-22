@@ -15,22 +15,19 @@
 #### LEC3: [[V03-ComputerOrganizationMemoryAddressing.pdf]]
 - [ ] [[Organization of a Computer]]
 - [ ] [[Arithmetic Operations]]
-- [ ] C Code -> Assembly (Basic arithmetic operations)
+- [ ]  C Code -> Assembly (Basic arithmetic operations)
 	- A[0] = h + A[2], h <-> s2, A <-> s1
 		- lw t0, 8(s1)
 		- add t0, s2, t0
 		- sw t0, 0(s1)
-- [ ] Immediate Operands
-- [ ] Memory Operands
 - [ ] Addressing an Integer Array
-- [ ] Word
-	- [ ] Load Word (lw)
-	- [ ] Store Word (sw)
+- [ ] [[Word]]
 	- [ ] Word Alignment
-- [ ] C code -> Assembly (Store and Load Words)
-	- [ ] Displacement
 - [ ] Registers vs Memory
-- [ ] Design Principle (Make the common case Fast)
+- [ ] [[Immediate Operands]]
+	- [ ] [[Make the common case fast]]
+
+
 
 #### LEC 4 [[V04-MemoryRegisterDataTransfer.pdf]]
 - [ ] sw, lw execution
@@ -65,9 +62,7 @@
 - [ ] Conditional Operations 
 	- [ ] While Loops
 - [ ] [[Non-Branch Comparison]] 
-- [ ] Signed vs Unsigned Comparison
-	- [ ] Signed Comparison: slt, slti
-	- [ ] Unsigned Comparison: sltu, sltiu
+- [ ] [[Signed vs Unsigned Comparison]]
 - [ ] Basic Blocks
 
 #### LEC 10 [[V0A-IsBraExample.pdf]]
@@ -86,11 +81,9 @@
 - [ ] Stack Pointer
 - [ ] Saving Registers into the Stack
 - [ ] Memory Layout
-
-
 #### LEC 12 [[V0C-RegisterCallingConvention.pdf]]
 - [ ] Register saving/restoring calling conventions
-- [ ] Register Usage Conventions
+- [ ] [[Register Usage Conventions]]
 - [ ] How is a function executed?
 - [ ] Frame pointer   
  
@@ -183,7 +176,6 @@
 		- [ ] Synchronous, Asynchronous
 		- [ ] [[printf]]
 	- [ ] [[Trap Levels]]
-
 - [ ]  [[Handling Exceptions]]
 	- [ ] Exceptions Codes
 	- [ ] Exception Handler
