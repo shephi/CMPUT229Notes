@@ -11,7 +11,7 @@ $$
 - [ ] Decimal -> Binary Conversion
 	- [ ] Repeated Division
 	- [ ] Repeated Subtraction
-- [ ] [2-Complement Notation](CMPUT 229/Definitions/2-Complement Notation.md)[[2-Complement Notation]]
+- [ ] [[[2-Complement Notation]]](https://github.com/shephi/CMPUT229Notes/blob/89bd1f4050cc43ad06fd9994f12b30a1f42a07de/CMPUT%20229/Definitions/2-Complement%20Notation.md)
 	- [ ] Largest positive number in 2-complement in k bits: 01111....
 $$
 	2^{k-1} - 1
