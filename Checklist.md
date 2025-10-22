@@ -1,6 +1,5 @@
 ## Practice Material
 - [[Introduction (Quiz 0)]](Definitions/Practice/Introduction%20(Quiz%200).md)
-
 ## Midterm 
 
 #### LEC 1: [[V01-BinaryRepresentation.pdf]](PDF%20Notes/V01-BinaryRepresentation.pdf)
