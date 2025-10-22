@@ -1,11 +1,10 @@
 
 ### Basic Formulas ---
 $$
-frequency = \frac{\text{cycles}}{\text{second}}
+\text{frequency} = \frac{\text{cycles}}{\text{second}}
 $$
 $$
 \text{Clock cycle} = \frac{\text{seconds}}{\text{cycle}}
-
 $$
 
 ### Main Formulas ---
