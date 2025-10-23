@@ -1,5 +1,17 @@
 ## Practice Material
 - [[Introduction (Quiz 0)]]
+### Programming Questions
+- [ ] *Practice Questions*
+	- [ ] 31. Flow Analysis, Instruction Decode, Load-Use Dependence Detection
+		- [ ] [[F23-final-A1-Q6.pdf]] -> [[F23-final-A1-Q6-sol.pdf]]
+	- [ ] 32. Reverse the value of an Integer
+		- [ ] [[F23-midterm-A1-Q5.pdf]] -> [[F23-midterm-A1-Q5-sol.pdf]]
+	- [ ] 33. Print all Numerical Palindromes in an Interval
+		- [ ] [[F23-midterm-A1-Q6.pdf]] -> [[F23-midterm-A1-Q6-sol.pdf]]
+	- [ ] 34. Reverse a String
+		- [ ] [[F19-midterm-A2-Q5.pdf]] -> [[F19-midterm-A2-Q6-sol.pdf]]
+	- [ ] 35. Reverse multiple Strings
+		- [ ] [[F19-midterm-A2-Q6.pdf]] -> [[F19-midterm-A2-Q6-sol.pdf]]
 ## Midterm 
 #### LEC 1: [[V01-BinaryRepresentation.pdf]]
 - [ ] [[Max & Min Values in k bits]]
@@ -118,6 +130,8 @@
 - [ ] [[Register Usage Conventions]]
 - [ ] [[Function Execution]]
 - [ ] Frame pointer   
+- [ ] 42. Function Creation
+	- [ ] [[F17-midterm-A2-Q4.pdf]] -> [[F17-midterm-A2-Q4-sol.pdf]]
 #### LEC 13 [[V0D-RecursiveFunctions.pdf]]
 - [ ] Recursive functions
 - [ ] Non-Leaf Procedures
@@ -136,6 +150,9 @@
 		- [ ] Issues with structs (Data Alignment)
 - [ ] String Copy (strcpy)
 - [ ] jalr vs. jal (unconditional jump)
+- [ ] *Practice Questions*
+	- [ ] 41. Multi-field Structures and Function Calls
+		- [ ] [[F14-final-Q4.pdf]] -> [[F14-final-Q4-sol.pdf]]
 #### LEC 15 (EXTRA)
 - [ ] GO BACK!!!
 #### LEC 16 [[V0F-RelativePerformance.pdf]]
@@ -147,8 +164,22 @@
 - [ ] [[CPU Clocking Formulas]]
 #### LEC 18 [[V11-CPI.pdf]]
 - [ ] CPI (Clock Per Instruction)
+- [ ] *Practice Questions*
+	- [ ] 47. Main Memory Access Time
+		- [ ] [[F23-final-A1-Q5.pdf]] -> [[F23-final-A1-Q5-sol.pdf]]
+	- [ ] 48. CPI
+		- [ ] [[F19-midterm-A2-Q2.pdf]] -> [[F19-midterm-A2-Q2-sol.pdf]]
+	- [ ] 49. CPI and Speedup
+		- [ ] [[F17-midterm-A2-Q2.pdf]] -> [[F17-midterm-A2-Q2-sol.pdf]]
+	- [ ] 50. CPI, Speedup, Clock Frequency
+		- [ ] [[F17-final-A1-Q4.pdf]] -> [[F17-final-A1-Q4-sol.pdf]]
+	- [ ] 51. Memory Hierarchy
 #### LEC 19 [[V12-PowerSPECAmdahl.pdf]]
 - [ ] GO BACK !!!!
+- [ ] *Practice Questions*
+	- [ ] 46. CPI, Ahmdal's Law
+		- [ ] [[W25-midterm-B1-Q1.pdf]] -> [[W25-midterm-B1-Q1-sol.pdf]]
+
 #### LEC 20 [[V13-BubbleSort.pdf]]
 - [ ] Bubble Sort
 	- [ ] Swap Procedure
@@ -167,6 +198,9 @@
 - [ ] Array Indexing vs. Pointers
 	- [ ] End of indexing (size vs array + size*{4})
 	- [ ] CPI vs actual performance
+- [ ] *Practice Questions*
+	- [ ] 37. Pointers
+		- [ ] [[W25-midterm-B1-Q2.pdf]] -> [[W25-midterm-B1-Q2-sol.pdf]]
 #### LEC 23 [[V16-StarP.pdf]]
 - [ ] \*p
 #### LEC 24 [[V1A-StringFunctions.pdf]]
@@ -177,6 +211,15 @@
 	- [ ] Array of Pointers to Pointers to Strings
 - [ ] Types
 	- [ ] \*char, \*\*char, \*\*\*char
+- [ ] *Practice Questions*
+	- [ ] 38. Sorting Strings, Pointers
+		- [ ] [[F19-final-A2-Q5.pdf]] -> [[F19-final-A2-Q5-sol.pdf]]
+	- [ ] 39. String Manipulation
+		- [ ] [[F19-final-A1-Q6.pdf]] -> [[F19-final-A1-Q6-sol.pdf]]
+	- [ ] 40. Bit Manipulation & String Manipulation
+		- [ ] [[F16-midterm-Q4.pdf]] -> [[F16-midterm-Q4-sol.pdf]]
+	- [ ] 45. Pointers
+		- [ ] [[F23-midterm-A1-Q4.pdf]] -> [[F23-midterm-A1-Q4-sol.pdf]]
 #### LEC 25 [[V17-ExceptionsInterruptsPolling.pdf]]
 - [ ] [[Exceptions]]
 	- [ ] [[Handling Exceptions]]
@@ -185,6 +228,9 @@
 - [ ] [[Interrupts]]
 - [ ] [[Polling]]
 - [ ] Interrupts vs. Polling
+- [ ] *Practice Questions*
+- [ ] 44. Pointers 
+	- [ ] [[W15-HW3-Q4.pdf]] -> [[W15-HW3-Q4-sol.pdf]]
 #### LEC 26 [[V18-ExceptionsRISC-V.pdf]]
 - [ ] [[Control and Status Registers]]
 - [ ] CSR instructions
