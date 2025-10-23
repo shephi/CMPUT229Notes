@@ -174,6 +174,31 @@
 	- [ ] 50. CPI, Speedup, Clock Frequency
 		- [ ] [[F17-final-A1-Q4.pdf]] -> [[F17-final-A1-Q4-sol.pdf]]
 	- [ ] 51. Memory Hierarchy
+		- [ ] [[F19-final-A1-Q5.pdf]] -> [[F19-final-A1-Q5-sol.pdf]] 
+	- [ ] 53. CPI, Relative Performance
+		- [ ] [[W14-midterm-Q3.pdf]] -> [[W14-midterm-Q3-sol.pdf]]
+	- [ ] 54. Instructions, compilers
+		- [ ] [[W14-quiz2-A.pdf]] -> [[W14-quiz2-A-sol.pdf]]
+	- [ ] 55. Instructions, compilers
+		- [ ] [[W14-quiz2-B.pdf]] -> [[W14-quiz2-B-sol.pdf]]
+	- [ ] 57. CPI 
+		- [ ] [[F13-midterm-A1-Q5.pdf]] -> [[F13-midterm-A1-Q5-sol.pdf]]
+	- [ ] 59. Multiple Compilers
+		- [ ] [[W12-quiz2.pdf]] -> [[W12-quiz2-sol.pdf]]
+	- [ ] 61. CPI, relative performance
+		- [ ] [[Q4-midtermF11.pdf]] -> [[Q4-midtermF11-sol.pdf]]
+	- [ ] 62. CPI
+		- [ ] [[F11-quiz2.pdf]] -> [[F11-quiz2-sol.pdf]]
+	- [ ] 63. CPI, Execution Time, Speedup
+		- [ ] [[Q1-midtermF10.pdf]] -> [[Q1-midtermF10-sol.pdf]]
+	- [ ] 64. CPI, Relative Performance
+		- [ ] [[F11-Midterm-Q4.pdf]] -> [[F11-Midterm-Q4-sol.pdf]]
+	- [ ] 65. Performance Analysis
+		- [ ] [[F14-midterm-Q2.pdf]] -> [[F14-midterm-Q2-sol.pdf]]
+	- [ ] 66. CPI
+		- [ ] [[HW2-Q1.pdf]] -> [[HW2-Q1-sol.pdf]]
+	- [ ] 67. CPI, Relative Performance
+		- [ ] [[F23-midterm-A1-Q2.pdf]] -> [[F23-midterm-A1-Q2-sol.pdf]]
 #### LEC 19 [[V12-PowerSPECAmdahl.pdf]]
 - [ ] GO BACK !!!!
 - [ ] *Practice Questions*
@@ -258,29 +283,3 @@ LEC 28(V1B)
 - [ ] Parameter Passing by Reference
 	- [ ] Need to make a copy of the parameter
 	- [ ] Print car vs. Read Card
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
