@@ -9,6 +9,9 @@
 	- [ ] Repeated Subtraction
 - [ ] [[2-Complement Notation]]
 - [ ] [[Sign Extension]]
+- [ ] *Practice Questions*
+	- [ ] 28. Binary vs Decimal Conversion, Overflow
+		- [ ] [[Q2-midtermF10.pdf]] -> [[Q2-midtermF10-sol.pdf]]
 #### LEC 2: [[V02-DataInMemory.pdf]]
 - [ ] [[Hexadecimal to Decimal]]
 - [ ] Endianness
@@ -26,6 +29,9 @@
 - [ ] Registers vs Memory
 - [ ] [[Immediate Operands]]
 	- [ ] [[Make the common case fast]]
+- [ ] *Practice Questions*
+	- [ ] 19. [[F10-Midterm-Q2.pdf]] -> [[F10-Midterm-Q2-sol.pdf]]
+	- [ ] 
 #### LEC 4 [[V04-MemoryRegisterDataTransfer.pdf]]
 - [ ] sw, lw execution in memory
 #### LEC 5 [[V05-InstructionRepresentation.pdf]]
@@ -45,13 +51,23 @@
 		- [ ] [[W25-midterm-B1-Q4.pdf]] -> [[W25-midterm-B1-Q4-sol.pdf]]
 	- [ ] 18. Load Word Indirect
 		- [ ] [[f16-midterm-q2.pdf]] -> [[f16-midterm-q2-sol.pdf]]
+	- [ ] 24. UJ-Type and SB-Type Instructions
+		- [ ] [[F23-midterm-A1-Q3.pdf]] -> [[F23-midterm-A1-Q3-sol.pdf]]
+	- [ ] 25. SB-Type Instruction Format
+		- [ ] [[F19-midterm-A2-Q1.pdf]] -> [[F19-midterm-A2-Q1-sol.pdf]]
+	- [ ] 26. SB-Type Instruction Format
+		- [ ] [[F19-midterm-A1-Q1.pdf]] -> [[F19-midterm-A1-Q1-sol.pdf]]
+	- [ ] 29. Large Register File
+		- [ ] [[F13-finalA2-Q4.pdf]] -> [[F13-finalA2-Q4-sol.pdf]]
+	- [ ] 30. Representation of Jal and Branch Instructions
+		- [ ] [[W12-quiz3.pdf]] -> [[W12-quiz3-sol.pdf]]
 #### LEC 6 [[V06-LogicInstructions.pdf]]
 - [ ] [[Logic Operations]]
 - [ ] [[Binary to Decimal]] 
 - [ ] [[Bitwise Logical Operations]]
 	- [ ] RARS issue
 - [ ] Load Immediate Instruction  (li)
-- [ ] *Practice Questions*:
+- [ ] *Practice Questions*
 	- [ ] 13. Analysis of Instructions
 		- [ ]  [[f13-quiz1-a2-b.pdf]] -> [[f13-quiz1-a2-b-sol.pdf]]
 	- [ ] 15. Scanning Instructions
@@ -61,10 +77,22 @@
 - [ ] [[Large Constants]]
 - [ ] Handling Large Constants in RARS
 	- [ ] Pseudocode
+- [ ] *Practice Questions*
+	- [ ] 22. Shift Instructions
+		- [ ] [[W17-midterm-A1-Q1.pdf]] -> [[W17-midterm-A1-Q1-sol.pdf]]
+	- [ ] 27. Multiplication, Performance Estimate
+		- [ ] [[F10-quiz4.pdf]] -> [[F10-quiz4-sol.pdf]]
 #### LEC 8 [[V08-ArraysInMemory.pdf]]
 - [ ] Arrays
 	- [ ] `x = A[i]`
 	- [ ] `y = A[B[j]]]`
+- [ ] *Practice Questions*
+	- [ ] 20. String Processor
+		- [ ] [[F17-midterm-A1-Q1.pdf]] -> [[F17-midterm-A1-Q1-sol.pdf]]
+	- [ ] 21. Array Access and Logic Instructions
+		- [ ] [[F17-midterm-A2-Q1.pdf]] -> [[F17-midterm-A2-Q1-sol.pdf]]
+	- [ ] 23. Array Accesses
+		- [ ] [[F23-midterm-A1-Q1.pdf]] -> [[F23-midterm-A1-Q1-sol.pdf]]
 #### LEC 9 [[V09-ConditionalInstructionsAndLoops.pdf]]
 - [ ] Conditional Operations 
 	- [ ] While Loops
