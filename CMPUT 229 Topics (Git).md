@@ -92,7 +92,7 @@
 	- [ ] Pseudocode
 - [ ] *Practice Questions*
 	- [ ] 22. Shift Instructions
-		- [ ] [[W17-midterm-A1-Q1.pdf]] <!-- unresolved link --> -> [[W17-midterm-A1-Q1-sol.pdf]] <!-- unresolved link -->
+		- [ ] [W17-midterm-A1-Q1.pdf](CMPUT229/PracticePDF/Assembly%20Instructions/W17-midterm-A1-Q1.pdf)  ->  [W17-midterm-A1-Q1-sol.pdf](CMPUT229/PracticePDF/Assembly%20Instructions/W17-midterm-A1-Q1-sol.pdf)
 	- [ ] 27. Multiplication, Performance Estimate
 		- [ ] [[F10-quiz4.pdf]] <!-- unresolved link --> -> [[F10-quiz4-sol.pdf]] <!-- unresolved link -->
 #### LEC 8: [V08-ArraysInMemory.pdf](PDF%20Notes/V08-ArraysInMemory.pdf)
@@ -274,6 +274,7 @@
 	- [ ] Exceptions Codes
 	- [ ] Exception Handler
 	- [ ] [Re-entrant exception handler](Definitions/V18/Re-entrant%20exception%20handler.md)
+- [ ] [User-Visible CSRs](Definitions/V18/User-Visible%20CSRs.md)
 ## Final 
 
 LEC 27 (V19)
