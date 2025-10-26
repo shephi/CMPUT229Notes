@@ -261,7 +261,7 @@
 - [ ] [Control and Status Registers](Definitions/V18/CSR/Control%20and%20Status%20Registers.md)
 - [ ] CSR instructions
 	- [ ] [Atomic Read-Modify-Write Operations](Definitions/V18/Atomic%20Read-Modify-Write-Operations/Atomic%20Read-Modify-Write%20Operations.md)
-- [ ] RISC V Coprocessors
+- [ ] [RISC V Coprocessors](Definitions/V18/RISC%20V%20Coprocessors.md)
 - [ ] [Privilege Levels](Definitions/V18/Privilege%20Levels.md)
 	- [ ] Protection
 	- [ ] Requesting Service
@@ -272,9 +272,8 @@
 	- [ ] [Trap Levels](Definitions/V18/Traps/Trap%20Levels.md)
 - [ ]  [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
 	- [ ] Exceptions Codes
-	- [ ] Exception Handler
 	- [ ] [Re-entrant exception handler](Definitions/V18/Re-entrant%20exception%20handler.md)
-- [ ] [User-Visible CSRs]](Definitions/V18/User-Visible%20CSRs.md)
+- [ ] [User-Visible CSRs](Definitions/V18/User-Visible%20CSRs.md)
 ## Final 
 
 LEC 27 (V19)
