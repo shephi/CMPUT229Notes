@@ -123,19 +123,19 @@
 	- [ ] Problem
 		- [ ] Single ra register
 - [ ] [[Call Stacks]]
-- [ ] Stack Pointer
+- [ ] [[Stack Pointer]]
 - [ ] Memory Layout
 #### LEC 12 [[V0C-RegisterCallingConvention.pdf]]
 - [ ] Register saving/restoring calling conventions
 - [ ] [[Register Usage Conventions]]
 - [ ] [[Function Execution]]
-- [ ] Frame pointer   
+- [ ] [[Frame pointer]]   
 - [ ] 42. Function Creation
 	- [ ] [[F17-midterm-A2-Q4.pdf]] -> [[F17-midterm-A2-Q4-sol.pdf]]
 #### LEC 13 [[V0D-RecursiveFunctions.pdf]]
 - [ ] Recursive functions
-- [ ] Non-Leaf Procedures
-- [ ] Factorial Assembly Code 
+	- [ ] [[Non-Leaf Procedures]]
+	- [ ] Factorial Assembly Code 
 - [ ] *Practice Questions*
 	- [ ] 16. Recursion, Branches
 		- [ ] [[W25-midterm-B1-Q3.pdf]] -> [[W25-midterm-B1-Q3-sol.pdf]]
