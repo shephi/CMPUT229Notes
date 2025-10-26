@@ -1,2 +1,4 @@
-- [[Vertical Trap]]
-- [[Horizontal Trap]]
+- Vertical Trap : Increase Privilege Level
+- Horizontal Trap :
+	- Privilege Level does not change
+	- Can be implemented as vertical traps that return control to a horizontal trap handler in the less-privileged mode

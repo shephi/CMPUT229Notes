@@ -166,8 +166,6 @@
 #### LEC 18: [V11-CPI.pdf](PDF%20Notes/V11-CPI.pdf)
 - [ ] CPI (Clock Per Instruction)
 - [ ] *Practice Questions*
-	- [ ] 47. Main Memory Access Time
-		- [ ] [[F23-final-A1-Q5.pdf]] <!-- unresolved link --> -> [[F23-final-A1-Q5-sol.pdf]] <!-- unresolved link -->
 	- [ ] 48. CPI
 		- [ ] [[F19-midterm-A2-Q2.pdf]] <!-- unresolved link --> -> [[F19-midterm-A2-Q2-sol.pdf]] <!-- unresolved link -->
 	- [ ] 49. CPI and Speedup
@@ -284,3 +282,8 @@ LEC 28(V1B)
 - [ ] Parameter Passing by Reference
 	- [ ] Need to make a copy of the parameter
 	- [ ] Print car vs. Read Card
+
+
+CACHE
+	- [ ] 47. Main Memory Access Time
+		- [[F23-final-A1-Q5.pdf]] <!-- unresolved link --> -> [[F23-final-A1-Q5-sol.pdf]] <!-- unresolved link -->
