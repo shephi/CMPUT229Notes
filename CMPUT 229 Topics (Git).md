@@ -95,7 +95,7 @@
 		- [ ] [[W17-midterm-A1-Q1.pdf]] <!-- unresolved link --> -> [[W17-midterm-A1-Q1-sol.pdf]] <!-- unresolved link -->
 	- [ ] 27. Multiplication, Performance Estimate
 		- [ ] [[F10-quiz4.pdf]] <!-- unresolved link --> -> [[F10-quiz4-sol.pdf]] <!-- unresolved link -->
-#### LEC 8 [[V08-ArraysInMemory.pdf]] <!-- unresolved link -->
+#### LEC 8: [V08-ArraysInMemory.pdf](PDF%20Notes/V08-ArraysInMemory.pdf)
 - [ ] Arrays
 	- [ ] `x = A[i]`
 	- [ ] `y = A[B[j]]]`
@@ -106,17 +106,17 @@
 		- [ ] [[F17-midterm-A2-Q1.pdf]] <!-- unresolved link --> -> [[F17-midterm-A2-Q1-sol.pdf]] <!-- unresolved link -->
 	- [ ] 23. Array Accesses
 		- [ ] [[F23-midterm-A1-Q1.pdf]] <!-- unresolved link --> -> [[F23-midterm-A1-Q1-sol.pdf]] <!-- unresolved link -->
-#### LEC 9 [[V09-ConditionalInstructionsAndLoops.pdf]] <!-- unresolved link -->
+#### LEC 9: [V09-ConditionalInstructionsAndLoops.pdf](PDF%20Notes/V09-ConditionalInstructionsAndLoops.pdf)
 - [ ] Conditional Operations 
 	- [ ] While Loops
 - [ ] [Non-Branch Comparison](Definitions/V09/Non-Branch%20Comparison.md) 
 - [ ] [Signed vs Unsigned Comparison](Definitions/V09/Signed%20vs%20Unsigned%20Comparison.md)
 - [ ] Basic Blocks
-#### LEC 10 [[V0A-IsBraExample.pdf]] <!-- unresolved link -->
+#### LEC 10: [V0A-IsBraExample.pdf](PDF%20Notes/V0A-IsBraExample.pdf)
 - [ ] Load Address (la)
 - [ ] Program Organization
 - [ ] IsBra Sample question
-#### LEC 11 [[V0B-ProcedureCallsAndStack.pdf]] <!-- unresolved link -->
+#### LEC 11: [V0B-ProcedureCallsAndStack.pdf](PDF%20Notes/V0B-ProcedureCallsAndStack.pdf)
 - [ ] [Callable Units](Definitions/V0B/Callable%20Units.md)
 - [ ] Procedure Calls
 	- [ ] Finding Return Address
@@ -126,21 +126,21 @@
 - [ ] [Call Stacks](Definitions/V0B/Call%20Stacks.md)
 - [ ] [[Stack Pointer]] <!-- unresolved link -->
 - [ ] Memory Layout
-#### LEC 12 [[V0C-RegisterCallingConvention.pdf]] <!-- unresolved link -->
+#### LEC 12: [V0C-RegisterCallingConvention.pdf](PDF%20Notes/V0C-RegisterCallingConvention.pdf)
 - [ ] Register saving/restoring calling conventions
 - [ ] [Register Usage Conventions](Definitions/V0C/Register%20Usage%20Conventions.md)
 - [ ] [Function Execution](Definitions/V0C/Function%20Execution.md)
 - [ ] [[Frame pointer]] <!-- unresolved link -->   
 - [ ] 42. Function Creation
 	- [ ] [[F17-midterm-A2-Q4.pdf]] <!-- unresolved link --> -> [[F17-midterm-A2-Q4-sol.pdf]] <!-- unresolved link -->
-#### LEC 13 [[V0D-RecursiveFunctions.pdf]] <!-- unresolved link -->
+#### LEC 13: [V0D-RecursiveFunctions.pdf](PDF%20Notes/V0D-RecursiveFunctions.pdf)
 - [ ] Recursive functions
 	- [ ] [[Non-Leaf Procedures]] <!-- unresolved link -->
 	- [ ] Factorial Assembly Code 
 - [ ] *Practice Questions*
 	- [ ] 16. Recursion, Branches
 		- [ ] [[W25-midterm-B1-Q3.pdf]] <!-- unresolved link --> -> [[W25-midterm-B1-Q3-sol.pdf]] <!-- unresolved link -->
-#### LEC 14 [[V0E-StringsOfCharacters.pdf]] <!-- unresolved link -->
+#### LEC 14: [V0E-StringsOfCharacters.pdf](PDF%20Notes/V0E-StringsOfCharacters.pdf)
 - [ ] Instructions to Manipulate Characters
 - [ ] Instructions to Manipulate Half Words
 - [ ] Array Indexing
@@ -156,14 +156,14 @@
 		- [ ] [[F14-final-Q4.pdf]] <!-- unresolved link --> -> [[F14-final-Q4-sol.pdf]] <!-- unresolved link -->
 #### LEC 15 (EXTRA)
 - [ ] GO BACK!!!
-#### LEC 16 [[V0F-RelativePerformance.pdf]] <!-- unresolved link -->
+#### LEC 16: [V0F-RelativePerformance.pdf](PDF%20Notes/V0F-RelativePerformance.pdf)
 - [ ] [Relative Performance](Definitions/V0F/Relative%20Performance.md)
 - [ ] [Latency](Definitions/V0F/Latency.md)
 - [ ] [Throughput](Definitions/V0F/Throughput.md)
 - [ ] Measuring Time
-#### LEC 17 [[V10-ClockAndFrequency.pdf]] <!-- unresolved link -->
+#### LEC 17: [V10-ClockAndFrequency.pdf](PDF%20Notes/V10-ClockAndFrequency.pdf)
 - [ ] [CPU Clocking Formulas](Definitions/V10/CPU%20Clocking%20Formulas.md)
-#### LEC 18 [[V11-CPI.pdf]] <!-- unresolved link -->
+#### LEC 18: [V11-CPI.pdf](PDF%20Notes/V11-CPI.pdf)
 - [ ] CPI (Clock Per Instruction)
 - [ ] *Practice Questions*
 	- [ ] 47. Main Memory Access Time
@@ -200,13 +200,13 @@
 		- [ ] [[HW2-Q1.pdf]] <!-- unresolved link --> -> [[HW2-Q1-sol.pdf]] <!-- unresolved link -->
 	- [ ] 67. CPI, Relative Performance
 		- [ ] [[F23-midterm-A1-Q2.pdf]] <!-- unresolved link --> -> [[F23-midterm-A1-Q2-sol.pdf]] <!-- unresolved link -->
-#### LEC 19 [[V12-PowerSPECAmdahl.pdf]] <!-- unresolved link -->
+#### LEC 19: [V12-PowerSPECAmdahl.pdf](PDF%20Notes/V12-PowerSPECAmdahl.pdf)
 - [ ] GO BACK !!!!
 - [ ] *Practice Questions*
 	- [ ] 46. CPI, Ahmdal's Law
 		- [ ] [[W25-midterm-B1-Q1.pdf]] <!-- unresolved link --> -> [[W25-midterm-B1-Q1-sol.pdf]] <!-- unresolved link -->
 
-#### LEC 20 [[V13-BubbleSort.pdf]] <!-- unresolved link -->
+#### LEC 20: [V13-BubbleSort.pdf](PDF%20Notes/V13-BubbleSort.pdf)
 - [ ] Bubble Sort
 	- [ ] Swap Procedure
 	- [ ] Sort Procedure
@@ -217,19 +217,19 @@
 		- [ ] Instruction Count
 		- [ ] CPI
 	- [ ] Effect of Language and Algorithm
-#### LEC 21 [[V14-FunctionCallInALoop.pdf]] <!-- unresolved link -->
+#### LEC 21: [V14-FunctionCallInALoop.pdf](PDF%20Notes/V14-FunctionCallInALoop.pdf)
 - [ ] Register Calling Conventions
 - [ ] Data Flow  
-#### LEC 22 [[V15-IndexingVsPointers.pdf]] <!-- unresolved link -->
+#### LEC 22: [V15-IndexingVsPointers.pdf](PDF%20Notes/V15-IndexingVsPointers.pdf)
 - [ ] Array Indexing vs. Pointers
 	- [ ] End of indexing (size vs array + size*{4})
 	- [ ] CPI vs actual performance
 - [ ] *Practice Questions*
 	- [ ] 37. Pointers
 		- [ ] [[W25-midterm-B1-Q2.pdf]] <!-- unresolved link --> -> [[W25-midterm-B1-Q2-sol.pdf]] <!-- unresolved link -->
-#### LEC 23 [[V16-StarP.pdf]] <!-- unresolved link -->
+#### LEC 23: [V16-StarP.pdf](PDF%20Notes/V16-StarP.pdf)
 - [ ] \*p
-#### LEC 24 [[V1A-StringFunctions.pdf]] <!-- unresolved link -->
+#### LEC 24: [V1A-StringFunctions.pdf](PDF%20Notes/V1A-StringFunctions.pdf)
 - [ ] Examples of String Functions
 	- [ ] strlen
 	- [ ] Creating arrays of student names
@@ -237,7 +237,7 @@
 	- [ ] Array of Pointers to Pointers to Strings
 - [ ] Types
 	- [ ] \*char, \*\*char, \*\*\*char
-- [x] *Practice Questions*
+- [ ] *Practice Questions*
 	- [ ] 38. Sorting Strings, Pointers
 		- [ ] [[F19-final-A2-Q5.pdf]] <!-- unresolved link --> -> [[F19-final-A2-Q5-sol.pdf]] <!-- unresolved link -->
 	- [ ] 39. String Manipulation
@@ -246,7 +246,7 @@
 		- [ ] [[F16-midterm-Q4.pdf]] <!-- unresolved link --> -> [[F16-midterm-Q4-sol.pdf]] <!-- unresolved link -->
 	- [ ] 45. Pointers
 		- [ ] [[F23-midterm-A1-Q4.pdf]] <!-- unresolved link --> -> [[F23-midterm-A1-Q4-sol.pdf]] <!-- unresolved link -->
-#### LEC 25 [[V17-ExceptionsInterruptsPolling.pdf]] <!-- unresolved link -->
+#### LEC 25: [V17-ExceptionsInterruptsPolling.pdf](PDF%20Notes/V17-ExceptionsInterruptsPolling.pdf)
 - [ ] [Exceptions](Definitions/V17/Exceptions.md)
 	- [ ] [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
 	- [ ] What the OS needs to know
@@ -257,7 +257,7 @@
 - [ ] *Practice Questions*
 - [ ] 44. Pointers 
 	- [ ] [[W15-HW3-Q4.pdf]] <!-- unresolved link --> -> [[W15-HW3-Q4-sol.pdf]] <!-- unresolved link -->
-#### LEC 26 [[V18-ExceptionsRISC-V.pdf]] <!-- unresolved link -->
+#### LEC 26: [V18-ExceptionsRISC-V.pdf](PDF%20Notes/V18-ExceptionsRISC-V.pdf)
 - [ ] [Control and Status Registers](Definitions/V18/CSR/Control%20and%20Status%20Registers.md)
 - [ ] CSR instructions
 	- [ ] [Atomic Read-Modify-Write Operations](Definitions/V18/Atomic%20Read-Modify-Write-Operations/Atomic%20Read-Modify-Write%20Operations.md)
