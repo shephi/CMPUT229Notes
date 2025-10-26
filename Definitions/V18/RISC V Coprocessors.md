@@ -1,2 +1,3 @@
 
-![[IMG_2252.jpg]]
+
+![[CMPUT229/Definitions/V18/IMG_2252.jpg]]
