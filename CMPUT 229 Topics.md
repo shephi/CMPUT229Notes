@@ -236,7 +236,7 @@
 	- [ ] Array of Pointers to Pointers to Strings
 - [ ] Types
 	- [ ] \*char, \*\*char, \*\*\*char
-- [ ] *Practice Questions*
+- [x] *Practice Questions*
 	- [ ] 38. Sorting Strings, Pointers
 		- [ ] [[F19-final-A2-Q5.pdf]] -> [[F19-final-A2-Q5-sol.pdf]]
 	- [ ] 39. String Manipulation
