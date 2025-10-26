@@ -271,7 +271,7 @@
 		- [ ] [printf](Definitions/V18/printf.md)
 	- [ ] [Trap Levels](Definitions/V18/Traps/Trap%20Levels.md)
 - [ ]  [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
-	- [ ] Exceptions Codes
+	- [ ] [Exceptions Codes](Definitions/V18/Exceptions%20Codes.md)
 	- [ ] [Re-entrant exception handler](Definitions/V18/Re-entrant%20exception%20handler.md)
 - [ ] [User-Visible CSRs](Definitions/V18/User-Visible%20CSRs.md)
 ## Final 
