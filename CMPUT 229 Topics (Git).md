@@ -15,7 +15,7 @@
 ## Midterm 
  #### LEC 1: [V01-BinaryRepresentation.pdf](PDF%20Notes/V01-BinaryRepresentation.pdf)
 
-- [ ] [Max & Min Values in k bits](Definitions/V01/Max%20%26%20Min%20Values%20in%20k%20bits.md)
+- [ ] [Max Min Values in k bits](Definitions/V01/Max%20Min%20Values%20in%20k%20bits.md)
 - [ ] Powers of Two
 - [ ] Decimal -> Binary Conversion
 	- [ ] Repeated Division
