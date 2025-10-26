@@ -13,7 +13,8 @@
 	- [ ] 35. Reverse multiple Strings
 		- [ ] [[F19-midterm-A2-Q6.pdf]] <!-- unresolved link --> -> [[F19-midterm-A2-Q6-sol.pdf]] <!-- unresolved link -->
 ## Midterm 
-#### LEC 1: [[V01-BinaryRepresentation.pdf]] <!-- unresolved link -->
+ #### LEC 1: [V01-BinaryRepresentation.pdf](PDF%20Notes/V01-BinaryRepresentation.pdf)
+
 - [ ] [Max & Min Values in k bits](Definitions/V01/Max%20%26%20Min%20Values%20in%20k%20bits.md)
 - [ ] Powers of Two
 - [ ] Decimal -> Binary Conversion
@@ -24,10 +25,10 @@
 - [ ] *Practice Questions*
 	- [ ] 28. Binary vs Decimal Conversion, Overflow
 		- [ ] [[Q2-midtermF10.pdf]] <!-- unresolved link --> -> [[Q2-midtermF10-sol.pdf]] <!-- unresolved link -->
-#### LEC 2: [[V02-DataInMemory.pdf]] <!-- unresolved link -->
+#### LEC 2: [V02-DataInMemory.pdf](PDF%20Notes/V02-DataInMemory.pdf)
 - [ ] [Hexadecimal to Decimal](Definitions/V02/Hexadecimal%20to%20Decimal.md)
 - [ ] Endianness
-#### LEC3: [[V03-ComputerOrganizationMemoryAddressing.pdf]] <!-- unresolved link -->
+#### LEC 3: [V03-ComputerOrganizationMemoryAddressing.pdf](PDF%20Notes/V03-ComputerOrganizationMemoryAddressing.pdf)
 - [ ] [Organization of a Computer](Definitions/V03/Organization%20of%20a%20Computer.md)
 - [ ] [Arithmetic Operations](Definitions/V03/Arithmetic%20Operations.md)
 - [ ]  C Code -> Assembly (Basic arithmetic operations)
@@ -44,9 +45,9 @@
 - [ ] *Practice Questions*
 	- [ ] 19. [[F10-Midterm-Q2.pdf]] <!-- unresolved link --> -> [[F10-Midterm-Q2-sol.pdf]] <!-- unresolved link -->
 	- [ ] 
-#### LEC 4 [[V04-MemoryRegisterDataTransfer.pdf]] <!-- unresolved link -->
+#### LEC 4: [V04-MemoryRegisterDataTransfer.pdf](PDF%20Notes/V04-MemoryRegisterDataTransfer.pdf)
 - [ ] sw, lw execution in memory
-#### LEC 5 [[V05-InstructionRepresentation.pdf]] <!-- unresolved link -->
+#### LEC 5: [V05-InstructionRepresentation.pdf](PDF%20Notes/V05-InstructionRepresentation.pdf)
 - [ ] [If else statement](Definitions/V05/If%20else%20statement.md)
 - [ ] Representing Instructions
 	- [ ] [Parts of an instruction](Definitions/V05/Parts%20of%20an%20instruction.md)
@@ -73,7 +74,7 @@
 		- [ ] [[F13-finalA2-Q4.pdf]] <!-- unresolved link --> -> [[F13-finalA2-Q4-sol.pdf]] <!-- unresolved link -->
 	- [ ] 30. Representation of Jal and Branch Instructions
 		- [ ] [[W12-quiz3.pdf]] <!-- unresolved link --> -> [[W12-quiz3-sol.pdf]] <!-- unresolved link -->
-#### LEC 6 [[V06-LogicInstructions.pdf]] <!-- unresolved link -->
+#### LEC 6: [V06-LogicInstructions.pdf](PDF%20Notes/V06-LogicInstructions.pdf)
 - [ ] [Logic Operations](Definitions/V06/Logic%20Operations.md)
 - [ ] [Binary to Decimal](Definitions/V06/Binary%20to%20Decimal.md) 
 - [ ] [Bitwise Logical Operations](Definitions/V06/Bitwise%20Logical%20Operations.md)
@@ -85,7 +86,7 @@
 	- [ ] 15. Scanning Instructions
 		- [ ] [[W25-midterm-B1-Q6.pdf]] <!-- unresolved link --> -> [[W25-midterm-B1-Q6-sol.pdf]] <!-- unresolved link -->
 
-#### LEC 7 [[V07-LargeConstants.pdf]] <!-- unresolved link -->
+#### LEC 7: [V07-LargeConstants.pdf](PDF%20Notes/V07-LargeConstants.pdf)
 - [ ] [Large Constants](Definitions/V07/Large%20Constants.md)
 - [ ] Handling Large Constants in RARS
 	- [ ] Pseudocode
