@@ -1,0 +1,2 @@
+- Always points to the top of the stack
+- Stack always grows towards lower memory addresses to allocate more space

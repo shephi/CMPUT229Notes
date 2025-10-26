@@ -1,0 +1,5 @@
+- Callee needs to 
+	- Save on the stack
+		- ra
+		- callee-saved registers (s0-s11)
+	- Restore Values from the stack before returning
