@@ -274,7 +274,7 @@
 	- [ ] Exceptions Codes
 	- [ ] Exception Handler
 	- [ ] [Re-entrant exception handler](Definitions/V18/Re-entrant%20exception%20handler.md)
-- [ ] [User-Visible CSRs](Definitions/V18/User-Visible%20CSRs.md)
+- [ ] [User-Visible CSRs]](Definitions/V18/User-Visible%20CSRs.md)
 ## Final 
 
 LEC 27 (V19)
