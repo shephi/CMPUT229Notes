@@ -1,1 +1,1 @@
-![[IMG_2252.jpg]]
+![[IMG_2252.jpg]]https://github.com/shephi/CMPUT229Notes/blob/4ff6a554f7c93cd44a437d720227e21baf5f1165/Definitions/V18/IMG_2252.jpg
