@@ -71,14 +71,14 @@
 	- [ ] 26. SB-Type Instruction Format
 		- [ ] [[F19-midterm-A1-Q1.pdf]] <!-- unresolved link --> -> [[F19-midterm-A1-Q1-sol.pdf]] <!-- unresolved link -->
 	- [ ] 29. Large Register File
-		- [ ] [[F13-finalA2-Q4.pdf]] <!-- unresolved link --> -> [[F13-finalA2-Q4-sol.pdf]] <!-- unresolved link -->
+		- [ ] [[F13-finalA2-Q4.pdf]] -> [[F13-finalA2-Q4-sol.pdf]] 
 	- [ ] 30. Representation of Jal and Branch Instructions
 		- [ ] [[W12-quiz3.pdf]] <!-- unresolved link --> -> [[W12-quiz3-sol.pdf]] <!-- unresolved link -->
 #### LEC 6: [V06-LogicInstructions.pdf](PDF%20Notes/V06-LogicInstructions.pdf)
 - [ ] [Logic Operations](Definitions/V06/Logic%20Operations.md)
 - [ ] [Binary to Decimal](Definitions/V06/Binary%20to%20Decimal.md) 
 - [ ] [Bitwise Logical Operations](Definitions/V06/Bitwise%20Logical%20Operations.md)
-	- [ ] RARS issue
+	- [ ] [RARS issue](Definitions/V06/RARS%20issue.md)
 - [ ] Load Immediate Instruction  (li)
 - [ ] *Practice Questions*
 	- [ ] 13. Analysis of Instructions
