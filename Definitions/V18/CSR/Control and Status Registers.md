@@ -2,8 +2,7 @@
 - [[uie]] (0x04): Interrupt-enable register
 - [[utvec]] (0x05): 
 - [[uscratch]] (0x40)
-- [[uepc]] (0x41): 
+- [[uepc]] (0x41): User Exception Program Counter
 - [[ucause]] (0x42): User-Cause Register
 - [[utval]] (0x43) :
 - [[uip]] (0x44):
-- 

@@ -1,5 +1,11 @@
 - Handle External Events
-
-- Ex. 
-	- Power Failure
-	- I/O Event
+	- Ex. 
+		- Power Failure
+		- I/O Event
+- Interrupt is like an exception
+	- Not synchronized to instruction execution
+	- Can invoke handler between instructions
+	- Cause information often identifies the interrupting device
+- Priority Interrupts
+	- Devices needing more urgent attention get higher priority
+	- Can interrupt a handler that is dealing with a lower priority interrupt

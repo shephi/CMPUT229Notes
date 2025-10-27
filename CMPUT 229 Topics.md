@@ -46,7 +46,7 @@
 	- [ ] 19. [[F10-Midterm-Q2.pdf]] <!-- unresolved link --> -> [[F10-Midterm-Q2-sol.pdf]] <!-- unresolved link -->
 	- [ ] 
 #### LEC 4: [V04-MemoryRegisterDataTransfer.pdf](PDF%20Notes/V04-MemoryRegisterDataTransfer.pdf)
-- [ ] sw, lw execution in memory
+- [ ] [Data Transfer](Definitions/V04/Data%20Transfer.md)
 #### LEC 5: [V05-InstructionRepresentation.pdf](PDF%20Notes/V05-InstructionRepresentation.pdf)
 - [ ] [If else statement](Definitions/V05/If%20else%20statement.md)
 - [ ] Representing Instructions
@@ -108,13 +108,12 @@
 		- [ ] [[F23-midterm-A1-Q1.pdf]] <!-- unresolved link --> -> [[F23-midterm-A1-Q1-sol.pdf]] <!-- unresolved link -->
 #### LEC 9: [V09-ConditionalInstructionsAndLoops.pdf](PDF%20Notes/V09-ConditionalInstructionsAndLoops.pdf)
 - [ ] Conditional Operations 
-	- [ ] While Loops
+	- [ ] [While Loops](Definitions/V09/While%20Loops.md)
 - [ ] [Non-Branch Comparison](Definitions/V09/Non-Branch%20Comparison.md) 
 - [ ] [Signed vs Unsigned Comparison](Definitions/V09/Signed%20vs%20Unsigned%20Comparison.md)
 - [ ] Basic Blocks
 #### LEC 10: [V0A-IsBraExample.pdf](PDF%20Notes/V0A-IsBraExample.pdf)
-- [ ] Load Address (la)
-- [ ] Program Organization
+- [ ] [[Load Address]]
 - [ ] IsBra Sample question
 #### LEC 11: [V0B-ProcedureCallsAndStack.pdf](PDF%20Notes/V0B-ProcedureCallsAndStack.pdf)
 - [ ] [Callable Units](Definitions/V0B/Callable%20Units.md)
@@ -132,14 +131,14 @@
 - [ ] [Function Execution](Definitions/V0C/Function%20Execution.md)
 - [ ] [Frame pointer](Definitions/V0C/Frame%20Pointer.md)
 - [ ] 42. Function Creation
-	- [ ] [[F17-midterm-A2-Q4.pdf]] <!-- unresolved link --> -> [[F17-midterm-A2-Q4-sol.pdf]] <!-- unresolved link -->
+	- [ ] [[F17-midterm-A2-Q4.pdf]] -> [[F17-midterm-A2-Q4-sol.pdf]] 
 #### LEC 13: [V0D-RecursiveFunctions.pdf](PDF%20Notes/V0D-RecursiveFunctions.pdf)
 - [ ] Recursive functions
 	- [ ] [Non-Leaf Procedures](Definitions/V0D/Non-Leaf%20Procedures.md)
 	- [ ] Factorial Assembly Code 
 - [ ] *Practice Questions*
-	- [ ] 16. Recursion, Branches
-		- [ ] [[W25-midterm-B1-Q3.pdf]] <!-- unresolved link --> -> [[W25-midterm-B1-Q3-sol.pdf]] <!-- unresolved link -->
+	- 16. Recursion, Branches
+		- [x] [[W25-midterm-B1-Q3.pdf]] -> [[W25-midterm-B1-Q3-sol.pdf]] 
 #### LEC 14: [V0E-StringsOfCharacters.pdf](PDF%20Notes/V0E-StringsOfCharacters.pdf)
 - [ ] Instructions to Manipulate Characters
 - [ ] Instructions to Manipulate Half Words
@@ -226,8 +225,10 @@
 	- [ ] End of indexing (size vs array + size*{4})
 	- [ ] CPI vs actual performance
 - [ ] *Practice Questions*
-	- [ ] 37. Pointers
-		- [ ] [[W25-midterm-B1-Q2.pdf]] <!-- unresolved link --> -> [[W25-midterm-B1-Q2-sol.pdf]] <!-- unresolved link -->
+	- 37. Pointers
+		- [ ] [[W25-midterm-B1-Q2.pdf]]  -> [[W25-midterm-B1-Q2-sol.pdf]] 
+	- 44. Pointers 
+		- [ ] [[W15-HW3-Q4.pdf]] -> [[W15-HW3-Q4-sol.pdf]] 
 #### LEC 23: [V16-StarP.pdf](PDF%20Notes/V16-StarP.pdf)
 - [ ] \*p
 #### LEC 24: [V1A-StringFunctions.pdf](PDF%20Notes/V1A-StringFunctions.pdf)
@@ -250,14 +251,9 @@
 #### LEC 25: [V17-ExceptionsInterruptsPolling.pdf](PDF%20Notes/V17-ExceptionsInterruptsPolling.pdf)
 - [ ] [Exceptions](Definitions/V17/Exceptions.md)
 	- [ ] [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
-	- [ ] What the OS needs to know
-- [ ] Cause Register X Interrupt Vectors
 - [ ] [Interrupts](Definitions/V17/Interrupts.md)
 - [ ] [Polling](Definitions/V17/Polling.md)
-- [ ] Interrupts vs. Polling
-- [ ] *Practice Questions*
-- [ ] 44. Pointers 
-	- [ ] [[W15-HW3-Q4.pdf]] <!-- unresolved link --> -> [[W15-HW3-Q4-sol.pdf]] <!-- unresolved link -->
+
 #### LEC 26: [V18-ExceptionsRISC-V.pdf](PDF%20Notes/V18-ExceptionsRISC-V.pdf)
 - [ ] [Control and Status Registers](Definitions/V18/CSR/Control%20and%20Status%20Registers.md)
 - [ ] CSR instructions
