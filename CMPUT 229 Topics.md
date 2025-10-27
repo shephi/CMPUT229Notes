@@ -266,8 +266,7 @@
 - [ ] [Privilege Levels](Definitions/V18/Privilege%20Levels.md)
 	- [ ] [Protection](Definitions/V18/Protection.md)
 	- [ ] [Requesting Service](Definitions/V18/Requesting%20Service.md)
-	- [ ] Context Switching
-		- [ ] Synchronous/Asynchronous
+	- [ ] [Context Switching](Definitions/V18/Context%20Switching.md)
 		- [ ] [printf](Definitions/V18/printf.md)
 	- [ ] [Trap Levels](Definitions/V18/Traps/Trap%20Levels.md)
 - [ ]  [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)

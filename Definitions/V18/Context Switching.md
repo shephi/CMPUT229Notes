@@ -1,0 +1,7 @@
+- Synchronous (syscall == ecall)
+	- Before handling the issue, the OS must:
+		- Save all the s registers
+		- Save the ra register
+- Asynchronous (exceptions)
+	- Before handling the issue, the OS must:
+		- save all the registers

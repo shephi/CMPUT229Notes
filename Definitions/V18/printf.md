@@ -1,1 +1,1 @@
-PASTE IMAGE
+![[CMPUT229/Definitions/V18/image.png]](image%201.png)
