@@ -28,7 +28,7 @@ $$
 \text{CPU Time} = \frac{\text{Instructions}}{\text{Program}} \times \frac{\text{Clock cycles}}{\text{Instruction}} \times \frac{\text{Seconds}}{\text{Clock Cycle}}
 $$
 $$
-\text{CPU Time} = \text{IC} \times \text{CPI} \times \frac{1}{\text{Frequency}}
+\text{CPU Time} = \text{Instruction Count} \times \text{CPI} \times \frac{1}{\text{Frequency}}
 $$
 
 

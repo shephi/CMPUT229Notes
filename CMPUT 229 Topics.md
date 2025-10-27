@@ -166,22 +166,25 @@
 #### LEC 18: [V11-CPI.pdf](PDF%20Notes/V11-CPI.pdf)
 - [ ] CPI (Clock Per Instruction)
 - [ ] *Practice Questions*
-	- [ ] 48. CPI
-		- [ ] [[F19-midterm-A2-Q2.pdf]] <!-- unresolved link --> -> [[F19-midterm-A2-Q2-sol.pdf]] <!-- unresolved link -->
-	- [ ] 49. CPI and Speedup
-		- [ ] [[F17-midterm-A2-Q2.pdf]] <!-- unresolved link --> -> [[F17-midterm-A2-Q2-sol.pdf]] <!-- unresolved link -->
-	- [ ] 50. CPI, Speedup, Clock Frequency
-		- [ ] [[F17-final-A1-Q4.pdf]] <!-- unresolved link --> -> [[F17-final-A1-Q4-sol.pdf]] <!-- unresolved link -->
-	- [ ] 51. Memory Hierarchy
-		- [ ] [[F19-final-A1-Q5.pdf]] <!-- unresolved link --> -> [[F19-final-A1-Q5-sol.pdf]] <!-- unresolved link --> 
-	- [ ] 53. CPI, Relative Performance
-		- [ ] [[W14-midterm-Q3.pdf]] <!-- unresolved link --> -> [[W14-midterm-Q3-sol.pdf]] <!-- unresolved link -->
-	- [ ] 54. Instructions, compilers
-		- [ ] [[W14-quiz2-A.pdf]] <!-- unresolved link --> -> [[W14-quiz2-A-sol.pdf]] <!-- unresolved link -->
-	- [ ] 55. Instructions, compilers
-		- [ ] [[W14-quiz2-B.pdf]] <!-- unresolved link --> -> [[W14-quiz2-B-sol.pdf]] <!-- unresolved link -->
-	- [ ] 57. CPI 
-		- [ ] [[F13-midterm-A1-Q5.pdf]] <!-- unresolved link --> -> [[F13-midterm-A1-Q5-sol.pdf]] <!-- unresolved link -->
+	- 48. CPI
+		- [x] [[F19-midterm-A2-Q2.pdf]] -> [[F19-midterm-A2-Q2-sol.pdf]] 
+			1. Calculate avg CPI given instruction distribution and cycles per instruction
+			2. Calculate number of instructions given CPU time, frequency, CPI
+			3. Performance improvement: Change # of cycles, Change # of instructions
+	- 49. CPI and Speedup
+		- [x] [[F17-midterm-A2-Q2.pdf]]  -> [[F17-midterm-A2-Q2-sol.pdf]] 
+			1. Calculate CPU Time given table of instructions with # of instructions and CPI
+			2. 
+	- 51. Memory Hierarchy
+		- [ ] [[F19-final-A1-Q5.pdf]] -> [[F19-final-A1-Q5-sol.pdf]] 
+	- 53. CPI, Relative Performance
+		- [x] [[W14-midterm-Q3.pdf]]  -> [[W14-midterm-Q3-sol.pdf]] 
+	- 54. Instructions, compilers (Ver A)
+		- [x] [[W14-quiz2-A.pdf]] -> [[W14-quiz2-A-sol.pdf]] 
+	- 55. Instructions, compilers (Ver B)
+		- [x] [[W14-quiz2-B.pdf]] -> [[W14-quiz2-B-sol.pdf]] 
+	- 57. CPI 
+		- [ ] [[F13-midterm-A1-Q5.pdf]] -> [[F13-midterm-A1-Q5-sol.pdf]]
 	- [ ] 59. Multiple Compilers
 		- [ ] [[W12-quiz2.pdf]] <!-- unresolved link --> -> [[W12-quiz2-sol.pdf]] <!-- unresolved link -->
 	- [ ] 61. CPI, relative performance
@@ -261,11 +264,10 @@
 	- [ ] [Atomic Read-Modify-Write Operations](Definitions/V18/Atomic%20Read-Modify-Write-Operations/Atomic%20Read-Modify-Write%20Operations.md)
 - [ ] [RISC V Coprocessors](Definitions/V18/RISC%20V%20Coprocessors.md)
 - [ ] [Privilege Levels](Definitions/V18/Privilege%20Levels.md)
-	- [ ] Protection
-	- [ ] Requesting Service
+	- [ ] [Protection](Definitions/V18/Protection.md)
+	- [ ] [Requesting Service](Definitions/V18/Requesting%20Service.md)
 	- [ ] Context Switching
-		- [ ] Costs
-		- [ ] Synchronous, Asynchronous
+		- [ ] Synchronous/Asynchronous
 		- [ ] [printf](Definitions/V18/printf.md)
 	- [ ] [Trap Levels](Definitions/V18/Traps/Trap%20Levels.md)
 - [ ]  [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
@@ -285,5 +287,7 @@ LEC 28(V1B)
 
 
 CACHE
-	- [ ] 47. Main Memory Access Time
+	- 47. Main Memory Access Time
 		- [[F23-final-A1-Q5.pdf]] <!-- unresolved link --> -> [[F23-final-A1-Q5-sol.pdf]] <!-- unresolved link -->
+	- 50. CPI, Speedup, Clock Frequency
+		- [[F17-final-A1-Q4.pdf]] <!-- unresolved link --> -> [[F17-final-A1-Q4-sol.pdf]] <!-- unresolved link -->
