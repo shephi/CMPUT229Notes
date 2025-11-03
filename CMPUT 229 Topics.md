@@ -272,19 +272,19 @@
 - [ ] [User-Visible CSRs](Definitions/V18/User-Visible%20CSRs.md)
 ## Final 
 
-LEC 27 (V19)
+#### LEC 27 (V19): [V19-ExceptionHandlerExample.pdf](PDF%20Notes/V19-ExceptionHandlerExample.pdf)
 - Non Re-entrant Exception Handler
 
-LEC 28(V1B)
+#### LEC 28(V1B): [V1B-ValueVsReferenceParameterPassing.pdf](PDF%20Notes/V1B-ValueVsReferenceParameterPassing.pdf)
 - [ ] Why?
 	- [ ] Parameter Passing by Value
 	- [ ] Parameter Passing by Reference
 		- [ ] Need to make a copy of the parameter
 		- [ ] Print car vs. Read Card
 
-- [ ] LEC 29 (V1C)
-	- [ ] [Synchronization](Definitions/V1C/Synchronization.md)
-		- [ ] [Atomic Swap](Definitions/V1C/Atomic%20Swap.md)
+#### LEC 29 (V1C) [V1C-Synchronization.pdf](PDF%20Notes/V1C-Synchronization.pdf)
+- [ ] [Synchronization](Definitions/V1C/Synchronization.md)
+- [ ] [Atomic Swap](Definitions/V1C/Atomic%20Swap.md)
 
 
 

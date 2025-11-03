@@ -1,3 +1,5 @@
+
+
 ```arm-asm
 # Processor P0: s1: address of shared, s4: local value to be swapped
 # Processor P1: s1: address of shared, s4: local value to be swapped
@@ -12,3 +14,10 @@ try:
 	bne t1, zero, try # branch if store fails
 	add s4, zero, t0 # put loaded value in s4
 ```
+
+- Load reserved: lr.w rd, (rs1) 
+- Store conditional: sc.w rd, rs2, (rs1)
+	- Succeeds if location has not changed since lr.w
+		- Returns zero in rd
+	- Fails if location has changed 
+		- Returns non-zero

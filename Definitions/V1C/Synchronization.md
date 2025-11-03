@@ -1,5 +1,10 @@
-- The process of coordinating multiple threads or processors to safely access shared data using atomic instructions
+- The process of coordinating **multiple threads** or processors to safely access shared data using atomic instructions
 	- Two processors sharing an are of memory
 		- P1 writes then P2 reads
 			- If P1 and P2 don't synchronize, what will P2 read?
 	- Result depends on order of accesses <-> **Data Race**
+- Hardware support required
+	- Atomic read/write memory operation
+	- No other access to the location allowed between read and write
+- Could be a single instruction
+	- E.g. atomic swap of register <-> memory
