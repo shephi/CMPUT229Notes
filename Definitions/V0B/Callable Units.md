@@ -1,6 +1,6 @@
 - Procedure
 - Function
-- Rountine
+- Routine
 - Subroutine
 - Subprogram
 - Method
