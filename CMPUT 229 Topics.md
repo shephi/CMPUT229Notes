@@ -284,6 +284,7 @@ LEC 28(V1B)
 
 - [ ] LEC 29 (V1C)
 	- [ ] [Synchronization](Definitions/V1C/Synchronization.md)
+		- [ ] [Atomic Swap](Definitions/V1C/Atomic%20Swap.md)
 
 
 

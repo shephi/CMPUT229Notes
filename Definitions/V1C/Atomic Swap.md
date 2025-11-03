@@ -1,0 +1,14 @@
+```arm-asm
+# Processor P0: s1: address of shared, s4: local value to be swapped
+# Processor P1: s1: address of shared, s4: local value to be swapped
+
+# P0, P1: Let s1 <- 0x1000 10E0
+# P0: s4: 42, t0, 42, t1: 0
+# P1: s4: 15, t0, 15, t1 :0
+
+try:
+	lr.w t0, (s1) # load reserved
+	sc.w t1, s4, (s1) # store conditional
+	bne t1, zero, try # branch if store fails
+	add s4, zero, t0 # put loaded value in s4
+```
