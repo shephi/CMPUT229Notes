@@ -4,3 +4,5 @@
 	- Trying to access resource at the same time
 - Starvation
 	- One process fails to access resource for an extended amount of time
+- Deadlock
+	- No progress can be made

@@ -266,7 +266,7 @@
 	- [ ] [Context Switching](Definitions/V18/Context%20Switching.md)
 		- [ ] [printf](Definitions/V18/printf.md)
 	- [ ] [Trap Levels](Definitions/V18/Traps/Trap%20Levels.md)
-- [ ]  [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
+- [ ] [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
 	- [ ] [Exceptions Codes](Definitions/V18/Exceptions%20Codes.md)
 	- [ ] [Re-entrant exception handler](Definitions/V18/Re-entrant%20exception%20handler.md)
 - [ ] [User-Visible CSRs](Definitions/V18/User-Visible%20CSRs.md)
@@ -287,9 +287,35 @@
 #### LEC 30 (V1D) [V1D-BlackBoardArchitecture.pdf](PDF%20Notes/V1D-BlackBoardArchitecture.pdf)
 - [ ] [Black Board Architecture](Definitions/V1D/Black%20Board%20Architecture.md)
 
+#### LEC 31 (V20) [V20-AddSubtract.pdf](PDF%20Notes/V20-AddSubtract.pdf)
+- [ ] 
+#### LEC 32 (V21) [V21-MultiplicationDivision.pdf](PDF%20Notes/V21-MultiplicationDivision.pdf)
+- [ ] [[Multiplication]]
+	- [ ] Pipelining 
+- [ ] Long Division
+
+#### LEC 33 (V22) [V22-InputOutput.pdf](PDF%20Notes/V22-InputOutput.pdf)
+- [ ] [[Storage and I O]]
+- [ ] [[Memory Mapped IO]]
+- [ ] [[IO instructions]]
+- [ ] WATCH VIDEOS
+- [ ] [[Bus Synchronization]]
+- [ ] [[IO Management]]
+#### LEC 34 (V23) [V23-FloatingPointRepresentation.pdf](PDF%20Notes/V23-FloatingPointRepresentation.pdf)
+- [ ] [[Normalization]]
+- [ ] [[Floating Point]]
+- [ ] Float Point Standard
+- [ ] [[Floating Point Representation]]
+
+WATCH V24,25,26
+
+#### LEC 35 (V27) 
+- [ ] Information encoded in binary
+- [ ] [[Combinatorial Elements]]
+- [ ] [[Sequential Elements]]
+- [ ] [[Building a Datapath]]
 CACHE
 	- 47. Main Memory Access Time
 		- [[F23-final-A1-Q5.pdf]] <!-- unresolved link --> -> [[F23-final-A1-Q5-sol.pdf]] <!-- unresolved link -->
 	- 50. CPI, Speedup, Clock Frequency
 		- [[F17-final-A1-Q4.pdf]] <!-- unresolved link --> -> [[F17-final-A1-Q4-sol.pdf]] <!-- unresolved link -->
-- 
