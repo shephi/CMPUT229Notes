@@ -297,28 +297,28 @@
 #### LEC 33 (V22) [V22-InputOutput.pdf](PDF%20Notes/V22-InputOutput.pdf)
 - [ ] [Storage and I O](Definitions/V22/Storage%20and%20I%20O.md)
 - [ ] [Memory Mapped IO](Definitions/V22/Memory%20Mapped%20IO.md)
-- [ ] [[IO instructions]]
+- [ ] [IO instructions](Definitions/V22/IO%20instructions.md)
 - [ ] WATCH VIDEOS
-- [ ] [[Bus Synchronization]]
-- [ ] [[IO Management]]
+- [ ] [Bus Synchronization](Definitions/V22/Bus%20Synchronization.md)
+- [ ] [IO Management](Definitions/V22/IO%20Management.md)
 #### LEC 34 (V23) [V23-FloatingPointRepresentation.pdf](PDF%20Notes/V23-FloatingPointRepresentation.pdf)
-- [ ] [[Normalization]]
-- [ ] [[Floating Point]]
+- [ ] [Normalization](Definitions/V23/Normalization.md)
+- [ ] [Floating Point](Definitions/V23/Floating%20Point.md)
 - [ ] Float Point Standard
-- [ ] [[Floating Point Representation]]
+- [ ] [Floating Point Representation](Definitions/V23/Floating%20Point%20Representation.md)
 
-#### LEC 35 (V24)
+#### LEC 35 (V24) [V24-FloatingPointArithmetic.pdf](PDF%20Notes/V24-FloatingPointArithmetic.pdf)
 - [ ] 
-#### LEC 36 (V25)
+#### LEC 36 (V25) [V25-FloatingPointInRISC-V.pdf](PDF%20Notes/V25-FloatingPointInRISC-V.pdf)
 - [ ] 
 #### LEC 37 (V26)
 - [ ] 
 
 #### LEC 38 (V27) 
 - [ ] Information encoded in binary
-- [ ] [[Combinatorial Elements]]
-- [ ] [[Sequential Elements]]
-- [ ] [[Building a Datapath]]
+- [ ] [Combinatorial Elements](Definitions/V27/Combinatorial%20Elements.md)
+- [ ] [Sequential Elements](Definitions/V27/Sequential%20Elements.md)
+- [ ] [Building a Datapath](Definitions/V27/Building%20a%20Datapath.md)
 #### LEC 39 (V28)
 
 #### LEC 40 (V29)
