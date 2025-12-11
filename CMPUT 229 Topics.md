@@ -288,7 +288,9 @@
 - [ ] [Black Board Architecture](Definitions/V1D/Black%20Board%20Architecture.md)
 
 #### LEC 31 (V20) [V20-AddSubtract.pdf](PDF%20Notes/V20-AddSubtract.pdf)
-- [ ] 
+- [ ] Floating-Point Registers(FPU)
+- [ ] Floating-Point Extensions
+- [ ] Floating-Point Instructions
 #### LEC 32 (V21) [V21-MultiplicationDivision.pdf](PDF%20Notes/V21-MultiplicationDivision.pdf)
 - [ ] [Multiplication](Definitions/V21/Multiplication.md)
 	- [ ] Pipelining 
