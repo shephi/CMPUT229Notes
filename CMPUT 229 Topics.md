@@ -318,9 +318,10 @@
 - [ ] [Floating-Point Extensions](Definitions/V25/Floating-Point%20Extensions.md)
 - [ ] [Floating-Point Instructions](Definitions/V25/Floating-Point%20Instructions.md)
 #### LEC 37 (V26) [V26-FloatingPointMatrixMult.pdf](PDF%20Notes/V26-FloatingPointMatrixMult.pdf)
-- [ ] 
-
-#### LEC 38 (V27) 
+- [ ] [[Matrix Multiplication Implementation]]
+- [ ] [[Optimization]]
+- [ ] [[Initialization and Storing]]
+#### LEC 38 (V27) [V27-DatapathBuildingBlocks.pdf](PDF%20Notes/V27-DatapathBuildingBlocks.pdf)
 - [ ] Information encoded in binary
 - [ ] [Combinatorial Elements](Definitions/V27/Combinatorial%20Elements.md)
 - [ ] [Sequential Elements](Definitions/V27/Sequential%20Elements.md)

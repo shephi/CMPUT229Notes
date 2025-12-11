@@ -1,0 +1,2 @@
+- Floating point registers f0 to f31
+- f0 register is not hardwired to the value 0
