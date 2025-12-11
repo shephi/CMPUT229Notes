@@ -290,13 +290,13 @@
 #### LEC 31 (V20) [V20-AddSubtract.pdf](PDF%20Notes/V20-AddSubtract.pdf)
 - [ ] 
 #### LEC 32 (V21) [V21-MultiplicationDivision.pdf](PDF%20Notes/V21-MultiplicationDivision.pdf)
-- [ ] [[Multiplication]]
+- [ ] [Multiplication](Definitions/V21/Multiplication.md)
 	- [ ] Pipelining 
 - [ ] Long Division
 
 #### LEC 33 (V22) [V22-InputOutput.pdf](PDF%20Notes/V22-InputOutput.pdf)
-- [ ] [[Storage and I O]]
-- [ ] [[Memory Mapped IO]]
+- [ ] [Storage and I O](Definitions/V22/Storage%20and%20I%20O.md)
+- [ ] [Memory Mapped IO](Definitions/V22/Memory%20Mapped%20IO.md)
 - [ ] [[IO instructions]]
 - [ ] WATCH VIDEOS
 - [ ] [[Bus Synchronization]]
@@ -307,13 +307,53 @@
 - [ ] Float Point Standard
 - [ ] [[Floating Point Representation]]
 
-WATCH V24,25,26
+#### LEC 35 (V24)
+- [ ] 
+#### LEC 36 (V25)
+- [ ] 
+#### LEC 37 (V26)
+- [ ] 
 
-#### LEC 35 (V27) 
+#### LEC 38 (V27) 
 - [ ] Information encoded in binary
 - [ ] [[Combinatorial Elements]]
 - [ ] [[Sequential Elements]]
 - [ ] [[Building a Datapath]]
+#### LEC 39 (V28)
+
+#### LEC 40 (V29)
+
+#### LEC 41(V2A)
+
+#### LEC 42(V2B)
+
+#### LEC 43(V2C)
+
+#### LEC 44(V2D)
+
+#### LEC 45 (V2E)
+
+#### LEC 46 (V2F)
+
+#### LEC 47 (V30)
+
+#### LEC 48 (V31)
+
+#### LEC 49 (V32)
+
+#### LEC 50 (V33)
+
+#### LEC 51 (V34)
+
+#### LEC 52 (V35)
+
+#### LEC 53 (V36)
+
+#### LEC 54(V37)
+
+#### LEC 55(V38)
+
+
 CACHE
 	- 47. Main Memory Access Time
 		- [[F23-final-A1-Q5.pdf]] <!-- unresolved link --> -> [[F23-final-A1-Q5-sol.pdf]] <!-- unresolved link -->

@@ -1,0 +1,7 @@
+- I/O is mediated by the OS
+	- Multiple programs share I/O resources
+		- Need protection and scheduling
+	- I/O causes asynchronous interrupts
+		- Same mechanism as exceptions
+	- I/O programming is fiddly
+		- OS provides abstraction to programs
