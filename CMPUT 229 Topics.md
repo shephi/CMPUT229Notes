@@ -288,9 +288,7 @@
 - [ ] [Black Board Architecture](Definitions/V1D/Black%20Board%20Architecture.md)
 
 #### LEC 31 (V20) [V20-AddSubtract.pdf](PDF%20Notes/V20-AddSubtract.pdf)
-- [ ] Floating-Point Registers(FPU)
-- [ ] Floating-Point Extensions
-- [ ] Floating-Point Instructions
+- [ ] 
 #### LEC 32 (V21) [V21-MultiplicationDivision.pdf](PDF%20Notes/V21-MultiplicationDivision.pdf)
 - [ ] [Multiplication](Definitions/V21/Multiplication.md)
 	- [ ] Pipelining 
@@ -316,8 +314,10 @@
 - [ ] [Accurate Arithmetic](Definitions/V24/Accurate%20Arithmetic.md)
 - [ ] [Non Associativity](Definitions/V24/Non%20Associativity.md)
 #### LEC 36 (V25) [V25-FloatingPointInRISC-V.pdf](PDF%20Notes/V25-FloatingPointInRISC-V.pdf)
-- [ ] 
-#### LEC 37 (V26)
+- [ ] [Floating-Point Registers(FPU)](Definitions/V25/Floating-Point%20Registers(FPU).md)
+- [ ] [Floating-Point Extensions](Definitions/V25/Floating-Point%20Extensions.md)
+- [ ] [Floating-Point Instructions](Definitions/V25/Floating-Point%20Instructions.md)
+#### LEC 37 (V26) [V26-FloatingPointMatrixMult.pdf](PDF%20Notes/V26-FloatingPointMatrixMult.pdf)
 - [ ] 
 
 #### LEC 38 (V27) 
