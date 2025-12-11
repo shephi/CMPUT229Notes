@@ -1,5 +1,4 @@
 - Representation for non-integer numbers
 	- Including very small and very large numbers
-- Like scientific notation
-- In Binary
-- Types: Float and double in C
+- Like scientific notation in Binary
+- Float Point Standard (IEEE Std 754-1985)

@@ -302,11 +302,12 @@
 - [ ] [Bus Synchronization](Definitions/V22/Bus%20Synchronization.md)
 - [ ] [IO Management](Definitions/V22/IO%20Management.md)
 #### LEC 34 (V23) [V23-FloatingPointRepresentation.pdf](PDF%20Notes/V23-FloatingPointRepresentation.pdf)
-- [ ] [Normalization](Definitions/V23/Normalization.md)
 - [ ] [Floating Point](Definitions/V23/Floating%20Point.md)
-- [ ] Float Point Standard
 - [ ] [Floating Point Representation](Definitions/V23/Floating%20Point%20Representation.md)
-
+- [ ] [Normalization](Definitions/V23/Normalization.md)
+- [ ] [Biased Exponent](Definitions/V23/Biased%20Exponent.md)
+- [ ] [Conversion](Definitions/VXX/Conversion.md)
+- [ ] [Ranges](Definitions/V23/Ranges.md)
 #### LEC 35 (V24) [V24-FloatingPointArithmetic.pdf](PDF%20Notes/V24-FloatingPointArithmetic.pdf)
 - [ ] 
 #### LEC 36 (V25) [V25-FloatingPointInRISC-V.pdf](PDF%20Notes/V25-FloatingPointInRISC-V.pdf)

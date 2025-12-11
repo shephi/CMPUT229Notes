@@ -1,0 +1,4 @@
+- Normalized Range
+- Largest Representable Number
+- Smallest Non-Negative Number (Denormalized)
+- Infinity and NaN
