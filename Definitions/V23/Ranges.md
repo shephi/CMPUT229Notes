@@ -1,4 +1,5 @@
 - Normalized Range
+	- Biased exponent between 1 and 254
 - Largest Representable Number
 - Smallest Non-Negative Number (Denormalized)
 - Infinity and NaN
