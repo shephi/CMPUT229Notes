@@ -311,9 +311,7 @@
 #### LEC 35 (V24) [V24-FloatingPointArithmetic.pdf](PDF%20Notes/V24-FloatingPointArithmetic.pdf)
 - [ ] [Floating Point Addition](Definitions/V24/Floating%20Point%20Addition.md)
 - [ ] [Floating Point Multiplication](Definitions/V24/Floating%20Point%20Multiplication.md)
-- [ ] [Guard Digit](Definitions/V24/Guard%20Digit.md)
-- [ ] [Round Digit](Definitions/V24/Round%20Digit.md)
-- [ ] [Sticky Bit](Definitions/V24/Sticky%20Bit.md)
+- [ ] [Accurate Arithmetic](Definitions/V24/Accurate%20Arithmetic.md)
 - [ ] [Non Associativity](Definitions/V24/Non%20Associativity.md)
 #### LEC 36 (V25) [V25-FloatingPointInRISC-V.pdf](PDF%20Notes/V25-FloatingPointInRISC-V.pdf)
 - [ ] 
