@@ -1,0 +1,5 @@
+- To increase ILP, two main hardware avenues exist:
+	- **Deeper Pipeline:** *Dividing pipeline stages* further results in *less work per stage* and a potentially *shorter clock cycle*
+		- ![[image-8.png]]
+	- **Multiple Issue:** (Wider Pipeline / Superscalar): **Replicating pipeline resources** to allow the processor to **start multiple instructions per clock cycle**, thereby achieving an Instructions Per Cycle (IPC) greater than one
+		- ![[image-9.png]]

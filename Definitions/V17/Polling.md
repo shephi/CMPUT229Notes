@@ -1,1 +1,3 @@
-Check any external events during execution?
+- Periodically checks I/O status register
+	- Device ready => perform operation
+	- Error => Take action

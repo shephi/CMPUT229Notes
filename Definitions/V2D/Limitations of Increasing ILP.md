@@ -1,0 +1,6 @@
+- Real Dependencies
+	- Programs inherently contain dependencies that limit how much parallelism can be found
+- Unpredictable Stalls: 
+	- Not all stalls are predictable by the compiler
+- Hardware Complexity and Power: 
+	- Deep pipelines and complex dynamic scheduling hardware increase complexity, leading to challenges often referred to as the "power wall"

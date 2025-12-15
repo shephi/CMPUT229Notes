@@ -1,8 +1,8 @@
-- [[ustatus]] (0x00): Status Register:
-- [[uie]] (0x04): Interrupt-enable register
-- [[utvec]] (0x05): 
-- [[uscratch]] (0x40)
-- [[uepc]] (0x41): User Exception Program Counter
-- [[ucause]] (0x42): User-Cause Register
-- [[utval]] (0x43) :
-- [[uip]] (0x44):
+- [x] [[ustatus]] (0x00): Status Register:
+- [x] [[uie]] (0x04): Interrupt-enable register
+- [x] [[utvec]] (0x05): 
+- [x] [[uscratch]] (0x40): Temp register for use in user trap handler
+- [x] [[uepc]] (0x41): User Exception Program Counter
+- [x] [[ucause]] (0x42): User-Cause Register
+- [ ] [[utval]] (0x43) : Memory Address of an offending memory reference
+- [ ] [[uip]] (0x44): User Interrupt Pending

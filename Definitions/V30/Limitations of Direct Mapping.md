@@ -1,0 +1,1 @@
+- **Conflict Misses:** Occur when multiple frequently accessed memory addresses map to the exact same cache index constantly evicting each other

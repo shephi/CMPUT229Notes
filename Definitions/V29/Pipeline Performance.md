@@ -1,0 +1,3 @@
+- **Latency vs. Throughput:** Pipelining increases throughput, instructions are completed faster overall. Latency (time it takes for a single instruction to complete from start to finish does not decrease)
+	- It may be slightly longer in a single-cycle design due to the delay introduced by the registers between pipeline stages
+- **If all stages are balanced** the **speedup is greater**

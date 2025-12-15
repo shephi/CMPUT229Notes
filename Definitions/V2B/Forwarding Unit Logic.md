@@ -1,0 +1,4 @@
+- Forwarding may be needed between ID and EX stage as well as ID and MEM stage
+- How does Risc-V detects that forwarding is needed?
+	- Only need to forward if instruction in EX writes to a register
+	- And only if Rd != x0

@@ -1,0 +1,11 @@
+- Guess what to do with an instruciton
+	- Start operations as soon as possible
+	- Check whether guess was right
+		- Correct: Complete operation
+		- Wrong: Roll back and do the right thing
+- Common to static and dynamic multiple issue
+- Ex.
+	- Speculate on branch outcome
+		- Roll back if path taken is different
+	- Speculate on load
+		- Roll back if location is updated

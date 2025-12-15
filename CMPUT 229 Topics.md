@@ -249,46 +249,44 @@
 		- [ ] [[F16-midterm-Q4.pdf]]  -> [[F16-midterm-Q4-sol.pdf]] 
 	- [ ] 45. Pointers
 		- [ ] [[F23-midterm-A1-Q4.pdf]] <!-- unresolved link --> -> [[F23-midterm-A1-Q4-sol.pdf]] <!-- unresolved link -->
-#### LEC 25: [V17-ExceptionsInterruptsPolling.pdf](PDF%20Notes/V17-ExceptionsInterruptsPolling.pdf)
-- [ ] [Exceptions](Definitions/V17/Exceptions.md)
-	- [ ] [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
-- [ ] [Interrupts](Definitions/V17/Interrupts.md)
-- [ ] [Polling](Definitions/V17/Polling.md)
 
+### FINAL START:
+####  LEC 25: [V17-ExceptionsInterruptsPolling.pdf](PDF%20Notes/V17-ExceptionsInterruptsPolling.pdf)
+- [x] [Exceptions](Definitions/V17/Exceptions.md)
+	- [x] [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
+- [x] [Interrupts](Definitions/V17/Interrupts.md)
+- [x] [Polling](Definitions/V17/Polling.md)
+- [x] [Vectored Interrupts](Definitions/V17/Vectored%20Interrupts.md)
 #### LEC 26: [V18-ExceptionsRISC-V.pdf](PDF%20Notes/V18-ExceptionsRISC-V.pdf)
-- [ ] [Control and Status Registers](Definitions/V18/CSR/Control%20and%20Status%20Registers.md)
-- [ ] CSR instructions
-	- [ ] [Atomic Read-Modify-Write Operations](Definitions/V18/Atomic%20Read-Modify-Write-Operations/Atomic%20Read-Modify-Write%20Operations.md)
-- [ ] [RISC V Coprocessors](Definitions/V18/RISC%20V%20Coprocessors.md)
-- [ ] [Privilege Levels](Definitions/V18/Privilege%20Levels.md)
-	- [ ] [Protection](Definitions/V18/Protection.md)
-	- [ ] [Requesting Service](Definitions/V18/Requesting%20Service.md)
-	- [ ] [Context Switching](Definitions/V18/Context%20Switching.md)
-		- [ ] [printf](Definitions/V18/printf.md)
-	- [ ] [Trap Levels](Definitions/V18/Traps/Trap%20Levels.md)
-- [ ] [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
-	- [ ] [Exceptions Codes](Definitions/V18/Exceptions%20Codes.md)
+- [x] [Control and Status Registers](Definitions/V18/CSR/Control%20and%20Status%20Registers.md)
+- [x] [Atomic Read-Modify-Write Operations](Definitions/V18/Atomic%20Read-Modify-Write-Operations/Atomic%20Read-Modify-Write%20Operations.md)
+- [x] [RISC V Coprocessors](Definitions/V18/RISC%20V%20Coprocessors.md)
+- [x] [Privilege Levels](Definitions/V18/Privilege%20Levels.md)
+	- [x] [Requesting Service](Definitions/V18/Requesting%20Service.md)
+	- [x] [Context Switching](Definitions/V18/Context%20Switching.md)
+		- [x] [printf](Definitions/V18/printf.md)
+	- [x] [Trap Levels](Definitions/V18/Traps/Trap%20Levels.md)
+- [x] [Handling Exceptions](Definitions/V18/Handling%20Exceptions.md)
+	- [x] [Exceptions Codes](Definitions/V18/Exceptions%20Codes.md)
 	- [ ] [Re-entrant exception handler](Definitions/V18/Re-entrant%20exception%20handler.md)
-- [ ] [User-Visible CSRs](Definitions/V18/User-Visible%20CSRs.md)
-## Final 
 
 #### LEC 27 (V19): [V19-ExceptionHandlerExample.pdf](PDF%20Notes/V19-ExceptionHandlerExample.pdf)
 - [ ] Non Re-entrant Exception Handler
 #### LEC 28(V1B): [V1B-ValueVsReferenceParameterPassing.pdf](PDF%20Notes/V1B-ValueVsReferenceParameterPassing.pdf)
-- [ ] Why?
-	- [ ] Parameter Passing by Value
-	- [ ] Parameter Passing by Reference
-		- [ ] Need to make a copy of the parameter
-		- [ ] Print car vs. Read Card
+- [x] Why?
+	- [x] Parameter Passing by Value
+	- [x] Parameter Passing by Reference
+		- [x] Need to make a copy of the parameter
+		- [x] Print car vs. Read Card
 #### LEC 29 (V1C) [V1C-Synchronization.pdf](PDF%20Notes/V1C-Synchronization.pdf)
-- [ ] [Synchronization](Definitions/V1C/Synchronization.md)
-- [ ] [Atomic Swap](Definitions/V1C/Atomic%20Swap.md)
+- [x] [Synchronization](Definitions/V1C/Synchronization.md)
+- [x] [Atomic Swap](Definitions/V1C/Atomic%20Swap.md)
 
 #### LEC 30 (V1D) [V1D-BlackBoardArchitecture.pdf](PDF%20Notes/V1D-BlackBoardArchitecture.pdf)
 - [ ] [Black Board Architecture](Definitions/V1D/Black%20Board%20Architecture.md)
 
 #### LEC 31 (V20) [V20-AddSubtract.pdf](PDF%20Notes/V20-AddSubtract.pdf)
-- [ ] 
+- [ ] GO BACK!!!
 #### LEC 32 (V21) [V21-MultiplicationDivision.pdf](PDF%20Notes/V21-MultiplicationDivision.pdf)
 - [ ] [Multiplication](Definitions/V21/Multiplication.md)
 	- [ ] Pipelining 
@@ -326,8 +324,8 @@
 - [ ] [Combinatorial Elements](Definitions/V27/Combinatorial%20Elements.md)
 - [ ] [Sequential Elements](Definitions/V27/Sequential%20Elements.md)
 - [ ] [Datapath Components](Definitions/V27/Datapath%20Components.md)
-#### LEC 39 (V28) [[V28-SingleCycleDatapath.pdf]]
-- [ ] [[Instruction Formats]]
+#### LEC 39 (V28) [V28-SingleCycleDatapath.pdf](PDF%20Notes/V28-SingleCycleDatapath.pdf)
+- [ ] [Instruction Formats](Definitions/V28/Datapath%20Components.md)
 #### LEC 40 (V29) [[V29-Pipelining.pdf]]
 - [ ] [[RISC-V Pipeline]]
 - [ ] [[Pipeline Performance]]
@@ -340,6 +338,8 @@
 #### LEC 42(V2B) [[V2B-PipelinedDatapath copy.pdf]]
 - [ ] [[Pipelined Datapath Structure]]
 - [ ] [[Signal Flow]]
+- [ ] [[Forwarding Unit Logic]]
+- [ ] [[Stalling Pipeline]]
 - [ ] Practice Questions
 	- [ ] [[F23-final-A1-Q4.pdf]] -> [[F23-final-A1-Q4-sol.pdf]]
 	- [ ] [[F19-final-A2-Q3.pdf]] -> [[F19-final-A2-Q3-sol.pdf]]
@@ -347,28 +347,48 @@
 #### LEC 43(V2C) [[V2C-ExceptionsInPipeline copy.pdf]]
 
 #### LEC 44(V2D) [[V2D-InstructionLevelParallelism copy.pdf]]
+- [ ] [[Instruction Level Parallelism]]
+- [ ] [[Multiple Issue]]
+- [ ] [[Dynamic Scheduling]]
+- [ ] [[Register Renaming]]
+- [ ] [[Limitations of Increasing ILP]]
 
-#### LEC 45 (V2E)
+#### LEC 45 (V2E) [[V2E-Speculation.pdf]]
+- [ ] [[Speculation]]
 
-#### LEC 46 (V2F)
+#### LEC 46 (V2F) [[V2F-MemoryHierarchy.pdf]]
+- [ ] [[Memory Hierarchy]]
+- [ ] [[Principle of Locality]]
+- [ ] [[Cache Organization]]
+#### LEC 47 (V30) [[V30-CacheMemory.pdf]]
+- [ ] [[Cache Memory]]
+- [ ] [[Direct Mapping]]
+- [ ] [[Finding a word in cache]]
+- [ ] [[Limitations of Direct Mapping]]
+- [ ] [[Associativity]]
 
-#### LEC 47 (V30)
+#### LEC 48 (V31) [[V31-BlockSizeAndAssociativity.pdf]]
+- [ ] [[Set Associativity]]
+- [ ] [[LRU]]
+- [ ] [[How Much Associativity]]
+- [ ] [[Replacement Policy]]
+- [ ] [[Block Size Considerations]]
+#### LEC 49 (V32) [[V32-WriteStrategy.pdf]]
+- [ ] [[Write Strategy]]
+#### LEC 50 (V33) [[V33-CachePerformance.pdf]]
+- [ ] [[Measuring Cache Performance]]
+- [ ] [[Memory Accesses]]
+- [ ] [[Calculating Cache Performance]]
+#### LEC 51 (V34) [[V34-AMAT.pdf]]
+- [ ]  [[AMAT]]
+- [ ] [[Performance Summary]]
 
-#### LEC 48 (V31)
+#### LEC 52 (V35) [[V35-MultiLevelCaches.pdf]]
+- [ ] [[Multilevel Cache]]
+- [ ] [[Interactions]]
 
-#### LEC 49 (V32)
-
-#### LEC 50 (V33)
-
-#### LEC 51 (V34)
-
-#### LEC 52 (V35)
-
-#### LEC 53 (V36)
-
-#### LEC 54(V37)
-
-#### LEC 55(V38)
+#### LEC 53 (V36) [[V36-VirtualMemory.pdf]]
+ - [ ] 
 
 
 CACHE

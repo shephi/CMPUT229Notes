@@ -1,0 +1,19 @@
+- **Structural Hazards**
+	- Occurs when **two different instructions require** the same hardware **resource simultaneously**
+	- Processors do not have separate instruction and data memories
+		- Ex. In the single-cycle datapath, the single memory unit is needed by an instruction fetch (IF stage) and a Load/Store operation (MEM stage) at the same time.
+		- **Solution**: All modern processors resolve this by using separate memories: an **Instruction Cache (L1) and a Data Cache (D1)**
+- **Data Hazard**
+	- Instruction depends on data produced by a previous instruction
+	- **Solutions:**
+		- **Forwarding (Bypassing):**
+			- Instead of waiting for the result to be stored in the register file during the WB stage, the result is "forwarded" directly from the output of the ALU (EX stage) or the Memory unit (MEM stage) back to the input of the ALU for the waiting instruction.
+				- 
+		- **Stalls/Bubbles:**
+			- A bubble must be inserted, where the dependent instruction waits until the data is ready, reducing performance
+	- **Load-Use Data Hazard:**
+		- A specific type of data hazard -> where the instruction immediately following a Load instruction tries to use the value being loaded
+			- A load-use hazard typically requires a one-cycle stall (a bubble) to be inserted immediately after the load instruction to delay the dependent instruction until the data is available
+			- Can use **code scheduling** to minimize mandatory stalls
+- **Control Hazard**
+	- Control action depends on previous instruction

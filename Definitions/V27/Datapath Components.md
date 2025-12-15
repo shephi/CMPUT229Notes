@@ -4,8 +4,10 @@
 	- **Instruction Memory:** A memory unit that takes a Read Address (from the PC) and outputs the Instruction
 	- **Register File:** A set of registers (like 32 registers in a two-read port file) that allows that data to be read from two registers simultaneously and written to one register. It uses control signals (RegWrite and read/write) register inptus
 	- **ALU:** Performs the necessary operation (like addition for R-type, address calculation for Load/Store, or subtraction for Branch) on its inputs
-	- **Immediate Generation Unit (ImmGen):** Takes the 32-bit instruction as input and generates a 32-bit sign-extended immediate value appropriate for the instruction type (Load, Store, or Branch)
+	- **Immediate Generation Unit (ImmGen):** Has a 32 bit instruction as input that selects a 12 bit field for load, store, branch that is sign-extended into a 32-bit result appearing on the output
+		- Instruction Binary (32) -> ImmGen -> Immediate (32) 
 	- **Multiplexers (Muxes):** Used throughout the datapath to select the correct data path based on the instruction type. Key Muxes include:
 		- **ALUSrc Mux:** Selects the second ALU operand—either `Read data 2` (for R-Type) or the sign-extended `Immediate` value (for Load/Store).
 		- **MemtoReg Mux:** Selects the data written back to the register file—either the `ALU result` (for R-Type) or the data read from `Data Memory` (for Load).
 		- **PCSrc Mux:** Selects the next PC value—either the sequential PC+4 or the `Branch Target` address.
+		- 

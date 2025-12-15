@@ -1,0 +1,8 @@
+- One of two primary mechanisms that the system uses to report the reason for an interruption to the Operation System (OS)
+	- When the processor handles an external event (an interruption), it needs to know where to find the specific code written to handle that event (Exception Handler)
+- In **vectored mode** the system uses utvec register (User Trap Handler Base Address) to locate a **table of pointers** to different exception handlers
+- The actual program counter (PC) address where execution begins is calculated by taking the base address stored in utvec and adding an offset that depends on the specific cause of the interrupt (the causeNumber)
+- For Interrupts (using vector mode):
+	- PC <- BASE field + 4 x causeNumber
+	- This mechanism allows external events to jump directly to specialized handling rountines by calculating the appropriate entry address in the table
+		- Ex. User-mode timer interrupt jumps to PC <- Base + 0x1c

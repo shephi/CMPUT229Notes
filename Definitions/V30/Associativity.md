@@ -1,0 +1,5 @@
+- Mapping is changed to allow a given memory address to map to more than one block in the cache
+	- This is achieved by grouping cache blocks into sets
+- Two-set associative:
+	- A memory block can map to one of two locations within a set
+		- Original memory address uses a smaller field for the Index, the single set location is identified by the reduced index, then the processor simultaneously compares the Tag against both "ways" to determine whether there was a hit or miss

@@ -1,0 +1,6 @@
+-  **Structure:** Data moves between multiple levels, typically starting with fast, expensive **SRAM (Cache)**, **slower DRAM (Main Memory)**, and finally, slow, **large storage (Disk**). In this system, main memory essentially functions as a "cache" for the contents of the disk.
+- Taking advantage of *Locality*
+	- Copy recently accessed (and nearby) items from disk to smaller DRAM memory
+		- main memory
+	- Copy more recently accessed (and nearby) items from DRAM to smaller SRAM memory
+		- Cache memory attached to CPU

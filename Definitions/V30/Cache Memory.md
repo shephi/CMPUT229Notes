@@ -1,0 +1,1 @@
+- A cache memory is a level of the memory hierarchy that is closer to the CPU than DRAM (main memory)

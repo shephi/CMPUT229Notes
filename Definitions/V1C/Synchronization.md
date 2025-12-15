@@ -1,3 +1,5 @@
+- If one processor (P1) writes to a location and another processor (P2) reads from or writes to the same location without coordination
+	- The unpredictable outcome is known as a **Data Race**
 - Critical Section
 	- The shared resource
 - Race Condition

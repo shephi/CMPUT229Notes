@@ -1,3 +1,0 @@
-- A Program running in U cannot access any M or S CSR registers
-	- If a U program could change the base address of the trap handler for the machine level (mtvec), it could change an exception handle to do nasty things. 
-	- The operating system ensures that no user process accesses illegal memory

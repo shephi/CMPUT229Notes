@@ -1,0 +1,6 @@
+- To determine if a piece of data is in the cache, the processor must use the memory address to check the correct cache location, 
+- In **direct mapping:** the address is partitioned into three parts:
+	- **Index:** The unique ID of each cache entry is the index of the entry
+	- **Byte Offset:** Identifies the specific byte or word within a cache block
+	- **Tag:** Used to confirm the identity of the data; if the address matches the index but the stored tag does not match the requested tag, the access is a miss
+	- **Valid Bit:** Indicates whether the data currently occupying that block location is valid. A cache miss occurs if the valid bit is 0, regardless of the tag match

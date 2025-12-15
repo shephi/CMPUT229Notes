@@ -1,0 +1,10 @@
+- A **control hazard** occurs because fetching the next instruction in a pipeline often depends on the outcome of a preceding instruction that has not yet completed execution, (ie, the branch outcome has not yet determined)
+	- In the RISC-V pipeline structure , the system may still be executing the ID (Instruction Decode) stage of the branch instruction while the following instructions are already being fetched, creating uncertainty about the correct instruction flow
+- **Solution:** 
+	- A: Early Branch Resolution
+		- to minimize the pipeline stall penalty, additional hardware is typically required to compare registers and calculate the branch target address during the **ID (Instruction Decode) stage** rather that waiting for the EX (execute) stage
+	- B: Stall on Branch (penalty)
+	- **C: Branch Prediction**
+		- The processor fetches the instruction immediately following the branch without delay
+			- If the prediction is correct (Not taken): There is no delay or penalty ("no bubble")
+			- If the prediction is incorrect (Taken): the incorrectly fetched instructions must be "squashed" (their effects eliminated) and the pipeline must restart fetching instructions from the correct target address

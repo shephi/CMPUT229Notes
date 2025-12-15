@@ -1,8 +1,5 @@
-- Contains the address of the handler
-	- Word Aligned => LSB should always be 0
-	- LSB == 1 => is it in vectored mode
-		- Make LSB = 0: it is the address of a table of pointers to exception handlers depending on its code
-- For all synchronous exceptions (caused by instruction exectuion):
-	- PC <- BASE field
-- For interrupts (using vector mode):
-	- PC <- BASE field + 4 X causeNumber
+- Contains the base address of the trap handler
+	- Must be word aligned
+	- Mode Indication:
+		- If LSB is 1 -> vectored mode
+			- If set back to 0, then the actual base of the table of pointers is used for accessing different exception handlers based on the cause code

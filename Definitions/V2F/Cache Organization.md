@@ -1,0 +1,7 @@
+- **Block** (aka line): unit of copying
+	- May be multiple words
+- **Hit:** If data is present in upper level, access satisfied by upper level
+	- **Hit ratio**: hits / accesses
+- **Miss:** If data is absent in upper level, block copied from lower level
+	- **Miss penalty:** Time taken
+	- **Miss ratio**: misses/accesses = 1 - hit ratio
