@@ -318,25 +318,35 @@
 - [ ] [Floating-Point Extensions](Definitions/V25/Floating-Point%20Extensions.md)
 - [ ] [Floating-Point Instructions](Definitions/V25/Floating-Point%20Instructions.md)
 #### LEC 37 (V26) [V26-FloatingPointMatrixMult.pdf](PDF%20Notes/V26-FloatingPointMatrixMult.pdf)
-- [ ] [[Matrix Multiplication Implementation]]
+- [ ] [[Matrix Multiplication Implementation]](Definitions/V26/Matrix-Multiplication-Implementation.md)
 - [ ] [[Optimization]]
 - [ ] [[Initialization and Storing]]
 #### LEC 38 (V27) [V27-DatapathBuildingBlocks.pdf](PDF%20Notes/V27-DatapathBuildingBlocks.pdf)
-- [ ] Information encoded in binary
+- [ ] [Logic Design Basics](Definitions/V27/Logic%20Design%20Basics.md)
 - [ ] [Combinatorial Elements](Definitions/V27/Combinatorial%20Elements.md)
 - [ ] [Sequential Elements](Definitions/V27/Sequential%20Elements.md)
-- [ ] [Building a Datapath](Definitions/V27/Building%20a%20Datapath.md)
-#### LEC 39 (V28)
+- [ ] [Datapath Components](Definitions/V27/Datapath%20Components.md)
+#### LEC 39 (V28) [[V28-SingleCycleDatapath.pdf]]
+- [ ] [[Instruction Formats]]
+#### LEC 40 (V29) [[V29-Pipelining.pdf]]
+- [ ] [[RISC-V Pipeline]]
+- [ ] [[Pipeline Performance]]
+- [ ] [[ISA Design]]
+- [ ] [[Pipeline Hazards]]
+#### LEC 41(V2A) [[V2A-ControlHazards copy.pdf]]
+- [ ] [[Control Hazards]]
+- [ ] [[Advanced Prediction]]
 
-#### LEC 40 (V29)
+#### LEC 42(V2B) [[V2B-PipelinedDatapath copy.pdf]]
+- [ ] [[Pipelined Datapath Structure]]
+- [ ] [[Signal Flow]]
+- [ ] Practice Questions
+	- [ ] [[F23-final-A1-Q4.pdf]] -> [[F23-final-A1-Q4-sol.pdf]]
+	- [ ] [[F19-final-A2-Q3.pdf]] -> [[F19-final-A2-Q3-sol.pdf]]
 
-#### LEC 41(V2A)
+#### LEC 43(V2C) [[V2C-ExceptionsInPipeline copy.pdf]]
 
-#### LEC 42(V2B)
-
-#### LEC 43(V2C)
-
-#### LEC 44(V2D)
+#### LEC 44(V2D) [[V2D-InstructionLevelParallelism copy.pdf]]
 
 #### LEC 45 (V2E)
 
@@ -363,6 +373,6 @@
 
 CACHE
 	- 47. Main Memory Access Time
-		- [[F23-final-A1-Q5.pdf]] <!-- unresolved link --> -> [[F23-final-A1-Q5-sol.pdf]] <!-- unresolved link -->
+		- [[F23-final-A1-Q5.pdf]]  -> [[F23-final-A1-Q5-sol.pdf]] 
 	- 50. CPI, Speedup, Clock Frequency
-		- [[F17-final-A1-Q4.pdf]] <!-- unresolved link --> -> [[F17-final-A1-Q4-sol.pdf]] <!-- unresolved link -->
+		- [[F17-final-A1-Q4.pdf]]  -> [[F17-final-A1-Q4-sol.pdf]]

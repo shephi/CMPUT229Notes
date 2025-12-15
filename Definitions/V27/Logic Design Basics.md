@@ -1,0 +1,2 @@
+- **Information Encoding:** Information within the datapath is encoded in binary, using low voltage to represent 0 and high voltage to represent 1. Multi-bit data is transmitted across multi-wire buses.
+- **Datapath Role:** The datapath is the part of the CPU responsible for processing data and addresses. It is constructed from various components, including registers, ALUs, multiplexers and memories

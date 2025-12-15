@@ -1,7 +1,5 @@
-Has a state which may change outputs of the same inputs
-
-Stores data in a circuit
-Uses a Clock signal to determine when to update the stored value
-
-Edge-triggered: update when Clock changes from 0 to 1
-Register with Write Control
+- **Sequential logic elements** store data (state) and change their output only at specific, synchronized moments, typically defined by a clock signal. The primary sequential element is the register
+- **Register:** A circuit that stores data
+	- Uses a **clock signal** to determine when to update the stored value
+	- **Edge-Triggered:** The register updates its stored value when the clock signal changes from 0 to 1
+	- **Register with Write control**: This is a register that updates only on the clock edge and only if a write control input is 1 
