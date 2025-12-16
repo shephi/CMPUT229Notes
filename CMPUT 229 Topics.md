@@ -335,7 +335,7 @@
 - [ ] [Control Hazards](Definitions/V2A/Control%20Hazards.md)
 - [ ] [Advanced Prediction](Definitions/V2A/Advanced%20Prediction.md)
 
-#### LEC 42(V2B) [[V2B-PipelinedDatapath copy.pdf]]
+#### LEC 42(V2B) [V2B-PipelinedDatapath copy.pdf](PDF%20Notes/V2B-PipelinedDatapath%20copy.pdf)
 - [ ] [[Pipelined Datapath Structure]]
 - [ ] [[Signal Flow]]
 - [ ] [[Forwarding Unit Logic]]
