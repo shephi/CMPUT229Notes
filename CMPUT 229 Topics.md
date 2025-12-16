@@ -336,7 +336,7 @@
 - [ ] [Advanced Prediction](Definitions/V2A/Advanced%20Prediction.md)
 
 #### LEC 42(V2B) [V2B-PipelinedDatapath copy.pdf](PDF%20Notes/V2B-PipelinedDatapath%20copy.pdf)
-- [ ] [[Pipelined Datapath Structure]]
+- [ ] [Pipelined Datapath Structure](Definitions/V2B/Pipelined%20Datapath%20Structure.md)
 - [ ] [[Signal Flow]]
 - [ ] [[Forwarding Unit Logic]]
 - [ ] [[Stalling Pipeline]]
