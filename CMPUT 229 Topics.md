@@ -331,9 +331,9 @@
 - [ ] [Pipeline Performance](Definitions/V29/Pipeline%20Performance.md)
 - [ ] [ISA Design](Definitions/V29/ISA%20Design.md)
 - [ ] [Pipeline Hazards](Definitions/V29/Pipeline%20Hazards.md)
-#### LEC 41(V2A) [[V2A-ControlHazards copy.pdf]]
-- [ ] [[Control Hazards]]
-- [ ] [[Advanced Prediction]]
+#### LEC 41(V2A) [V2A-ControlHazards copy.pdf](PDF%20Notes/V2A-ControlHazards%20copy.pdf)
+- [ ] [Control Hazards](Definitions/V2A/Control%20Hazards.md)
+- [ ] [Advanced Prediction](Definitions/V2A/Advanced%20Prediction.md)
 
 #### LEC 42(V2B) [[V2B-PipelinedDatapath copy.pdf]]
 - [ ] [[Pipelined Datapath Structure]]
