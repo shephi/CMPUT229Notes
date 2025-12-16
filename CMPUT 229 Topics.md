@@ -280,11 +280,10 @@
 		- [x] Print car vs. Read Card
 #### LEC 29 (V1C) [V1C-Synchronization.pdf](PDF%20Notes/V1C-Synchronization.pdf)
 - [x] [Synchronization](Definitions/V1C/Synchronization.md)
-- [x] [Atomic Swap](Definitions/V1C/Atomic%20Swap.md)
+- [ ] [Atomic Swap](Definitions/V1C/Atomic%20Swap.md)
 
 #### LEC 30 (V1D) [V1D-BlackBoardArchitecture.pdf](PDF%20Notes/V1D-BlackBoardArchitecture.pdf)
 - [ ] [Black Board Architecture](Definitions/V1D/Black%20Board%20Architecture.md)
-
 #### LEC 31 (V20) [V20-AddSubtract.pdf](PDF%20Notes/V20-AddSubtract.pdf)
 - [ ] GO BACK!!!
 #### LEC 32 (V21) [V21-MultiplicationDivision.pdf](PDF%20Notes/V21-MultiplicationDivision.pdf)
@@ -337,7 +336,7 @@
 
 #### LEC 42(V2B) [V2B-PipelinedDatapath copy.pdf](PDF%20Notes/V2B-PipelinedDatapath%20copy.pdf)
 - [ ] [Pipelined Datapath Structure](Definitions/V2B/Pipelined%20Datapath%20Structure.md)
-- [ ] [[Signal Flow]]
+- [ ] [Signal Flow](Definitions/V2B/Signal%20Flow.md)
 - [ ] [[Forwarding Unit Logic]]
 - [ ] [[Stalling Pipeline]]
 - [ ] Practice Questions
