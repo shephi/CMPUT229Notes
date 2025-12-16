@@ -326,11 +326,11 @@
 - [ ] [Datapath Components](Definitions/V27/Datapath%20Components.md)
 #### LEC 39 (V28) [V28-SingleCycleDatapath.pdf](PDF%20Notes/V28-SingleCycleDatapath.pdf)
 - [ ] [Instruction Formats](Definitions/V28/Datapath%20Components.md)
-#### LEC 40 (V29) [[V29-Pipelining.pdf]]
-- [ ] [[RISC-V Pipeline]]
-- [ ] [[Pipeline Performance]]
-- [ ] [[ISA Design]]
-- [ ] [[Pipeline Hazards]]
+#### LEC 40 (V29) [V29-Pipelining.pdf](PDF%20Notes/V29-Pipelining.pdf)
+- [ ] [RISC-V Pipeline](Definitions/V29/RISC-V%20Pipeline.md)
+- [ ] [Pipeline Performance](Definitions/V29/Pipeline%20Performance.md)
+- [ ] [ISA Design](Definitions/V29/ISA%20Design.md)
+- [ ] [Pipeline Hazards](Definitions/V29/Pipeline%20Hazards.md)
 #### LEC 41(V2A) [[V2A-ControlHazards copy.pdf]]
 - [ ] [[Control Hazards]]
 - [ ] [[Advanced Prediction]]
